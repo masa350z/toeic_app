@@ -1,0 +1,304 @@
+<Affiliate>:  # アフィリエイト画面
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '知人紹介プログラム'
+            font_size: 17
+
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                BoxLayout:
+                    orientation: 'vertical'
+                    Label:
+                        text: '現在紹介者数'
+                    Label:
+                        text: root.len_of+'人'
+                BoxLayout:
+                    orientation: 'vertical'
+                    Label:
+                        text: '報酬還元率'
+                    Label:
+                        text: root.ratio+'%'
+                Button:
+                    size_hint_x: 0.6
+                    text: '詳細'
+                    on_press: root.go_affdetail()
+
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                BoxLayout:
+                    orientation: 'vertical'
+                    Label:
+                        text: '紹介ID'
+                    Label:
+                        text: root.affiliate_id
+                Button:
+                    size_hint_x: 0.3
+                    text: '発行'
+                    on_press: root.go_issue()
+
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '戻る'
+        on_press: app.root.go_home()
+
+<Affdetail>:　 # 紹介状況
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '知人紹介プログラム詳細'
+            font_size: 17
+
+        BoxLayout:
+            orientation: 'vertical'
+            BoxLayout:
+                Label:
+                    text: '紹介者数'
+                Label:
+                    text: '報酬還元率'
+            BoxLayout:
+                Label:
+                    text: '~1人'
+                Label:
+                    text: '30%'
+            BoxLayout:
+                Label:
+                    text: '2~5人'
+                Label:
+                    text: '40%'
+            BoxLayout:
+                Label:
+                    text: '6人~'
+                Label:
+                    text: '50%'
+
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '戻る'
+        on_press: app.root.go_affiliate()
+
+<Affiliated>:  # 紹介される側
+    Label:
+        text: '紹介ID入力(お持ちでない場合は空白のままお進みください。)'
+        pos: [root.width/2 - self.width/2, root.height/2 - self.height/2]
+
+    BoxLayout:
+        orientation: 'horizontal'
+        size_hint_x: 0.8
+        size_hint_y: 0.1
+        pos: [root.width/2 - self.width/2, self.height*1/2]
+        TextInput:
+            id: affid
+            focus: True
+            multiline: False
+            hint_text: '紹介IDをお持ちの場合は入力してください'
+        Button:
+            text: '入力'
+            size_hint_x: 0.3
+            on_press: app.root.affiliated_id = affid.text ;root.auth_aff(affid.text)
+
+<AffiliatedPopup>:
+    id:pop
+    size_hint: .7, .7
+    auto_dismiss: False
+    title: '成功'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: '認証に成功しました'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '進む'
+                on_press: pop.dismiss() ;app.root.go_affdmail()
+
+<AffiliatedErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: 'エラーが発生しました。登録せずに進みますか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: epop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: epop.dismiss(); app.root.go_information()
+
+<Affdmail>:  # 紹介報酬案内用メールアドレス入力
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '連絡用メールアドレス登録'
+            font_size: 17
+
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: '紹介特典の振込、送付のためメールアドレスを入力してください'
+            TextInput:
+                id: address
+                multiline: False
+                hint_text: '連絡用のメールアドレスを登録してください'
+            TextInput:
+                id: verification
+                multiline: False
+                hint_text: '確認用にもう一度入力してください'
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '進む'
+        on_press: app.root.affdmail = address.text; root.address_popup(address.text, verification.text)
+
+<AfdmailPopup>:
+    id:pop
+    size_hint: .7, .7
+    auto_dismiss: False
+    title: '確認'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.1
+            text: 'メールアドレス'
+        Label:
+            size_hint_y: 0.1
+            text: app.root.affdmail
+        Label:
+            size_hint_y: 0.2
+            text: '以上で間違いありませんか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: pop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: pop.dismiss(); root.register_address(app.root.affdmail); app.root.go_information()
+
+<AfdmailErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: '入力されたアドレスが不正か一致しません'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: epop.dismiss()
+
+<Issue>:  # 紹介ID発行
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '紹介IDを発行します。完了後に1度再起動してください'
+            font_size: 17
+
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: 'メールアドレス'
+            TextInput:
+                id: address
+                multiline: False
+                hint_text: '連絡用のメールアドレスを登録してください'
+            TextInput:
+                id: verification
+                multiline: False
+                hint_text: '確認用にもう一度入力してください'
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '発行'
+        on_press: app.root.address = address.text; root.address_popup(address.text, verification.text)
+
+<AddressPopup>:
+    id:pop
+    size_hint: .7, .7
+    auto_dismiss: False
+    title: '確認'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.1
+            text: 'メールアドレス'
+        Label:
+            size_hint_y: 0.1
+            text: app.root.address
+        Label:
+            size_hint_y: 0.2
+            text: '以上で間違いありませんか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: pop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: pop.dismiss(); root.register_address(app.root.address); app.root.go_home()
+
+<AddressErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: '入力されたアドレスが不正か一致しません'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: epop.dismiss()

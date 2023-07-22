@@ -1,0 +1,2505 @@
+﻿words,meanings,score,correct,appear
+Godd luck!,がんばって！,0.0,0,0
+refer to,～を参照する,0.0,0,0
+according to,～によると,0.0,0,0
+take place,起こる、行われる,0.0,0,0
+be interested in,～に興味がある,0.0,0,0
+look for,～を探す,0.0,0,0
+look forward to,～を楽しみにする,0.0,0,0
+work on,～に取り組む,0.0,0,0
+pick up,～を受ける、拾い上げる,0.0,0,0
+ask for,～を求める,0.0,0,0
+be pleased to be,喜んで～する,0.0,0,0
+kind of,種類の、一種の,0.0,0,0
+on time,時間通りに,0.0,0,0
+in fact,実は、実際は,0.0,0,0
+be supposed to,～することになっている,0.0,0,0
+sign up for,～に申し込む,0.0,0,0
+a variety of,さまざまな,0.0,0,0
+find out,知る、わかる,0.0,0,1
+no longer,もはや～ない,0.0,0,0
+get to,～にたどり着く、～に取り掛かる,0.0,0,1
+set up,～を設定する,0.5,1,1
+at keast,少なくとも,0.0,0,0
+make sure,必ず～する,0.0,0,0
+apply for,～に応募する,0.0,0,0
+fill out,～に記入する,0.5,1,1
+in order to do,～するために,0.0,0,0
+up to,最大では,0.0,0,0
+as well as,～に加えて,0.0,0,0
+in advance,事前に、前もって,0.0,0,0
+right now,今すぐ,0.0,0,0
+hear from,～から連絡がある,0.0,0,0
+stop by,立ち寄る,0.0,0,0
+based on,～に基づいて,0.0,0,0
+ba responsible for,～に責任がある,0.0,0,0
+a number of,いくつかの,0.25,1,2
+as soon as possible,出来るだけ早く,0.0,0,0
+along with,～と一緒に,0.5,1,1
+be concerned about,～を心配している,0.0,0,0
+a range of,さまざまな,0.0,0,0
+incharge of,～を担当している、～の責任者である,0.0,0,0
+right away,ただちに,0.0,0,0
+be intended for,～向けの、～を対象とした,0.0,0,0
+give a call,電話をする,0.0,0,0
+on display,展示中で、陳列中で,0.0,0,0
+put on,～を着る,0.0,0,1
+take a look,見る、見てみる,0.0,0,0
+apply to,～にあてはまる、適用される,0.5,1,1
+feel free to do,気軽に～する,0.0,0,0
+in person,本人が直接,0.0,0,0
+place an order,注文を出す,0.0,0,0
+take care of,～を処理する、対応する,0.0,0,0
+be willing to do,～してもかまわない、～する意思がある,0.0,0,0
+worth doing,～する価値がある,0.0,0,0
+a couple of,２，３の,0.0,0,0
+as well,も,0.0,0,0
+be about to do,まさに～するところだ,0.0,0,0
+in the meantime,それまでの間、さしあたって,0.0,0,0
+call for,～を呼ぶ、求める、予想する,0.0,0,0
+for example,たとえば,0.0,0,0
+at this time,今回は、現時点では,0.0,0,0
+rather than,～よりむしろ,0.0,0,0
+take advance of,～を利用する,0.0,0,0
+on behalf of,～を代表して,0.0,0,0
+prior to,～の前に,0.0,0,0
+remenber to do,忘れずに～する,0.0,0,0
+turn off,オフにする,0.0,0,0
+turn on,オンにする,0.0,0,0
+be based in,～に拠点を置く,0.0,0,0
+be close to,～に近い,0.0,0,0
+be pleased with,～に満足している,0.0,0,0
+go over,～を詳しく検討する,0.0,0,0
+look over,～にざっと目を通す,0.0,0,0
+out of town,町を離れる、出張中で,0.0,0,0
+so far,これまでのところ,0.0,0,0
+as of,～付けで、～時点で,0.0,0,0
+be likely to do,～しそうだ,0.0,0,0
+look to do,～しようとする,0.0,0,0
+not until,～まではない,0.0,0,0
+be familiar with,～をよく知っている,0.5,1,1
+free of charge,無料で,0.0,0,0
+go ahead,どうぞ。進んで～する,0.0,0,0
+on a X basis,Xごとに、Xベースで,0.0,0,0
+plenty of,たくさんの、十分な,0.0,0,0
+search for,～を探す,0.0,0,0
+at work,職場で、勤務中で,0.0,0,0
+be eligible for,～の資格がある,0.0,0,0
+for sale,販売用の,0.0,0,0
+in line,一列で,0.0,0,1
+leave a message,伝言を残す,0.0,0,0
+no later than,遅くとも,0.0,0,0
+not only X but Y,XだけでなくYも,0.0,0,0
+on sale,販売中で、セール中で,0.0,0,0
+put in,～を提出する,0.0,0,0
+used to do,かつて～だった,0.0,0,0
+be committed to,～に尽力している、～に努力している,0.0,0,0
+in a row,連続で、一列で,0.0,0,0
+look up,調べる,0.0,0,0
+take off,～を脱ぐ、離陸する,0.5,1,1
+across from,～の真向かいに,0.0,0,0
+at all times,常時,0.0,0,0
+I'd be happy to.,喜んで,0.0,0,0
+Would you like to do ~?,～されますか、～するのはいかがですか,0.0,0,0
+make it,うまくいく、何とか間に合う、都合がつく,0.0,0,0
+I'm afraid,残念ながら,0.0,0,1
+How can I help you?,どのようなご用件でしょうか,0.0,0,0
+Would you like me to do ~?,私が～しましょうか。,0.0,0,0
+Would you like ~?,～はいかがですか、～は必要でしょうか,0.0,0,0
+Would/Do you mind doing ~?,～していただいても構いませんか,0.0,0,0
+How about ~?,～はどうですか,0.0,0,0
+Can you do me a favor?,お願いがあるのですが,0.0,0,0
+I was wondering if you could ~.,～してもらえないかと思っていたんですが,0.0,0,0
+That's too bad,それは残念です,0.0,0,0
+What about ~?,～はどうですか,0.0,0,0
+I see.,わかりました,0.5,1,1
+Why don't you ~?,～してはどうですか,0.0,0,0
+if you wouldn't mind,もしよろしければ,0.0,0,0
+You may/might want to do ~.,～したほうがよいかもしれません,0.0,0,0
+Here it is.,これです,0.0,0,0
+That's not a problem.,大丈夫です,0.0,0,0
+That sounds great.,いいですね,0.0,0,0
+That sounds like a good idea.,いい考えですね,0.0,0,0
+Whi don't we ~?,～しませんか,0.0,0,0
+Would you care to do ~?,～するのはいかがですか,0.0,0,0
+That's good to know.,教えてくれてありがとう,0.0,0,0
+Will do.,そうします、了解です,0.0,0,0
+either way,いずれにせよ,0.0,0,0
+I can manage it,自分で何とかできます,0.0,0,0
+Why not?,もちろんです,0.0,0,0
+Would you rather X or Y?,Xのほうが良いですか、それともYですか,0.0,0,0
+you'd better,～するのが賢明だ,0.0,0,0
+Better than I expected.,予想以上でした,0.0,0,0
+I'd say,～だろうと思う,0.0,0,0
+I wish I could.,そうしたいところですが,0.0,0,0
+let's see,えっと,0.0,0,0
+No idea.,まったくわかりません,0.0,0,0
+not at all,まったく～でない、全然かまわない,0.0,0,0
+That's a relief,安心しました,0.0,0,0
+What if ~?,もし～したらどうなりますか,0.0,0,0
+You have reached ~.,こちらは～です,0.0,0,0
+count me in,私を数に入れる,0.0,0,0
+Do/Would you mind id I ~?,～しても構いませんか,0.0,0,0
+Does/Would that work?,それで大丈夫ですか,0.0,0,0
+Either is fine.,どちらでも構いません,0.0,0,0
+I could use your help.,あなたの助けが必要です,0.0,0,0
+it's been a while,久しぶりだ,0.0,0,0
+I've got to get going.,行かなければいけません,0.0,0,0
+Never mind.,気にしないで,0.0,0,0
+no matter what,何があっても,0.0,0,0
+No worries.,心配しないで,0.0,0,0
+We're still deciding.,まだ決まってません,0.0,0,0
+Wouldn't you rather ~?,～したほうがよくないですか,0.0,0,0
+That's it.,以上です,0.0,0,0
+By all means.,もちろんです,0.0,0,0
+It could not be better deserved.,あなた以上にふさわしい人はいません,0.0,0,1
+You are welcome.,どういたしまして,0.0,0,0
+What's up?,どうしたの,0.0,0,0
+artwork,芸術作品,0.0,0,0
+board,乗り込む、坂,0.0,0,0
+browse,見て回る、ざっと読む,0.0,0,0
+button,ボタンを留める,0.0,0,0
+ceiling,天井,0.0,0,0
+change,お釣り,0.0,0,0
+curb,縁石,0.0,0,0
+descend,降りる,0.0,0,0
+dock,船着き場,0.0,0,0
+drawer,引き出し,0.0,0,0
+come up with,～を思いつく,0.0,0,0
+in that case,その場合,0.0,0,0
+lead to,～に繋がる、～に続く,0.0,0,0
+on one's way,途中で,0.0,0,0
+take a moment,少し時間をとる,0.0,0,0
+try on,～を試着する,0.0,0,0
+be involved in/with,～にかかわっている,0.0,0,0
+be wrong with,～の調子が悪い,0.0,0,0
+behind schedule,予定より遅れて,0.0,0,0
+by the way,ところで,0.0,0,0
+get back to,～に折り返し連絡する,0.0,0,0
+in place,用意されている,0.0,0,1
+in response to,～に応えて,0.0,0,0
+point out,～を指摘する,0.0,0,0
+be satisfied with,～に満足している,0.5,1,1
+be welcome to do,どうぞ～してください,0.0,0,0
+come by,立ち寄る、やってくる,0.0,0,0
+for a while,しばらくの間,0.0,0,0
+in writing,書面で,0.0,0,0
+lean against,～によりかかる,0.0,0,0
+look into,調査する,0.0,0,0
+take over,～を引き継ぐ,0.0,0,0
+within walking distance,徒歩圏内,0.0,0,0
+as a result of,～の結果として,0.5,1,1
+be delighted to do,～できてとてもうれしい,0.0,0,0
+be equipped with,～が備わっている,0.0,0,0
+be subject to,～の対象となる,0.0,0,0
+carry out,～を実行する,0.0,0,0
+hang up,～を掛ける、電話を切る,0.0,0,0
+make sense,理に適う、意味が分かる,0.0,0,0
+on duty,勤務中で,0.0,0,0
+under construction,工事中で,0.0,0,0
+X and Y alike,XもYも同様に,0.0,0,1
+be dedicated to,～に尽力している、～に特化した,0.0,0,0
+in time for,～に間に合って、～に間に合うように,0.0,0,0
+in/with regard to,～に関して,0.0,0,0
+keep in mind that,～を念頭に置く,0.0,0,0
+on board,乗っている、一員である,0.0,0,0
+open to the public,一般公開されている,0.0,0,0
+put together,～を取りまとめる、組み立てる,0.0,0,0
+ahead of schedule,予定より早く,0.0,0,0
+an array of,たくさんの、ずらりとならんだ,0.5,1,1
+be always,いつものように,0.0,0,0
+be aware of,～に気づく,0.0,0,0
+be suitable fo,～に適している、～にぴったりだ,0.0,0,0
+can afford to do,～する余裕がある,0.0,0,0
+day off,休み,0.0,0,0
+drop by,立ち寄る,0.0,0,0
+get into,入る,0.0,0,0
+get to work,出勤する、職場に着く,0.0,0,0
+go through,～に目を通す、通る,0.0,0,0
+grow up,育つ,0.5,1,1
+hand out,～を配る,0.0,0,0
+in particular,特に,0.0,0,0
+put away,～を片付ける,0.0,0,0
+quite a few,かなりの数の,0.5,1,1
+related to,～に関連した、～と親戚である,0.0,0,0
+take a break,休憩する,0.0,0,0
+take part in,～に参加する,0.0,0,0
+associated with,～に関連した、付随した,0.0,0,0
+be followed by,～が後に着く、～が後に行われる,0.0,0,0
+catch a train,電車に乗る,0.0,0,0
+different from,～とは違っている,0.0,0,0
+get back to,戻る,0.0,0,0
+get off,降りる、電話を切る,0.0,0,0
+get out,外に出る,0.0,0,0
+have in common,共通している,0.0,0,0
+in need of,～が必要だ,0.0,0,0
+in the process of,～の最中で,0.0,0,0
+make room for,～のためにスペースを空ける,0.0,0,0
+on the permises,敷地内で,0.0,0,0
+out of stock,在庫切れ,0.0,0,0
+reach for,～に手を伸ばす,0.0,0,0
+side by side,並んで,0.5,1,1
+take one's place,代わりを務める,0.0,0,0
+take up,取る、始める,0.0,0,0
+thank you for your patience,ご辛抱いただきありがとうございます,0.0,0,0
+that is why,それだからこそ,0.0,0,0
+a while ago,ちょっと前に,0.0,0,0
+account for,～の割合を占める、～の原因となる、～を説明する,0.0,0,0
+after all,結局は,0.0,0,0
+along the way,途中で,0.0,0,0
+as follows,以下の通り,0.0,0,0
+as for,～に関して言うと,0.0,0,1
+as usual,いつものように,0.5,1,1
+be eager to do,～することを熱望している,0.0,0,0
+be similar to,～に似ている,0.5,1,1
+come along,一緒に来る,0.0,0,0
+draw up,～を成作する、書き上げる,0.0,0,0
+every other,１つおきの,0.0,0,0
+figure out,わかる、みつけだす,0.0,0,0
+for years,長年,0.0,0,0
+get in touch with,～と連絡を取る,0.0,0,1
+go on to do,さらに続けて～する,0.0,0,0
+in detail,くわしく,0.0,0,0
+in terms of,～の点で,0.0,0,0
+keep track of,～の記録をつける、～の経過を追う,0.0,0,0
+keep up with,～に遅れずについていく、～に追いつく,0.0,0,0
+meet a deadline,締め切りに間に合わせる,0.0,0,0
+meet the needs,需要を果たす,0.0,0,0
+participate in,～に参加する,0.0,0,0
+apologize for,～をお詫びする,0.0,0,0
+inquire about,～について尋ねる,0.0,0,0
+register for,～に登録する,0.0,0,0
+focus on,～に集中する,0.0,0,0
+arrange for X to do,Xが～する手配をする,0.0,0,0
+respond to,～に返事をする,0.0,0,0
+result in,結果として～になる,0.0,0,0
+specialize in,～を専門とする,0.0,0,0
+prepare for,～の準備をする,0.0,0,0
+provide X with Y,X に Y を提供する ,0.0,0,0
+complain about,～について文句を言う,0.0,0,0
+attach X to Y,XをYに添付する,0.0,0,0
+compared to/with,～と比べて,0.0,0,0
+enroll in,～に入会する,0.0,0,0
+subscribe to,～を購読する,0.0,0,0
+benefit from,～から連絡がある利益を得る,0.0,0,0
+expose X to Y,Xをyにさらす,0.0,0,0
+contribute to,～に貢献する,0.0,0,0
+reply to,～に返事する,0.0,0,0
+attribute X to Y,XはYのおかげだとする,0.0,0,0
+break down,故障する,0.0,0,0
+compete with,～と競う,0.0,0,0
+rely on,～に頼る,0.0,0,0
+compensate X for Y,XにYを保障する,0.0,0,0
+consist of,～で構成される,0.0,0,0
+differ from,～とは異なる,0.0,0,0
+qualify for,～の資格がある,0.0,0,0
+succeed in,～で成功する,0.0,0,0
+agree with,～に同意する,0.0,0,0
+attend to,～に対応する,0.0,0,0
+attest to,証言する、証明する,0.0,0,0
+comply with,～に従う,0.0,0,0
+conform to,～に合わせる,0.0,0,1
+depend on,～次第だ,0.0,0,0
+dispose of,～を処分する,0.0,0,0
+prevent X from doing,Xが～するのを妨げる,0.0,0,0
+range from X to Y,XからYに及ぶ,0.0,0,0
+refrain from,～を控える,0.0,0,0
+adhere to,～に忠実に従う,0.0,0,0
+cater to,～に応える、～に向けた,0.0,0,0
+concentrate on,～に集中する,0.0,0,0
+embark on,～に乗り出す,0.0,0,0
+engage in,～に携わる,0.0,0,0
+interfere with,～の邪魔をする,0.0,0,1
+resign from,～を辞める,0.0,0,0
+result from,～に起因する,0.0,0,0
+tailor X to Y,XをYに合わせる,0.0,0,0
+translate X into Y,XをYに翻訳する,0.0,0,0
+impose X on Y,XをYに課す,0.0,0,0
+insist on,～を主張する,0.0,0,0
+owe X to Y,XはYのおかげである,0.0,0,0
+process X into Y,Xを加工してYに変える,0.0,0,1
+substitute X for Y,XをYの代わりに使う,0.0,0,0
+transform X into Y,XをYに一変させる,0.0,0,0
+erase,消す,0.0,0,0
+examine,詳しく調べる,0.0,0,0
+exit,出る,0.0,0,0
+fireplace,暖炉,0.0,0,0
+kneel,ひざをつく,0.0,0,0
+ladder,はしご,0.5,1,1
+lamppost,街路灯,0.0,0,0
+laptop,ノートPC,0.0,0,0
+load,積み込む,0.0,0,0
+microwave oven,電子レンジ,0.0,0,0
+mow,刈る,0.5,1,1
+take a tour,見学する,0.0,0,0
+take effect,有効になる,0.0,0,1
+take on,引き受ける、～と対戦する,0.0,0,0
+thanks to,～のおかげで,0.0,0,0
+a bit of,少しの,0.5,1,1
+a great deal of,たくさんの,0.0,0,0
+at the latest,遅くとも,0.0,0,1
+at the moment,現在,0.0,0,0
+be entitled to,～の資格がある,0.0,0,0
+by oneself,一人で,0.0,0,0
+dozens of,たくさんの,0.0,0,1
+drop off,～を届ける、～を置いていく,0.0,0,0
+for futher information,詳しくは,0.0,0,0
+for the duration of,～の期間中ずっと,0.0,0,1
+get on,～に乗り込む,0.0,0,1
+get to know,～を知るようになる、～と知り合いになる,0.0,0,1
+give a ride,車に乗せる,0.0,0,0
+go on sale,発売になる,0.0,0,0
+go out of business,商売を止める,0.0,0,0
+in an effort to do,～しようとして,0.0,0,0
+in operation,稼働中で,0.0,0,0
+in turn,その結果,0.0,0,0
+on a budget,限られた予算内で,0.0,0,0
+on such short notice,急な知らせで,0.0,0,0
+pay off,実を結ぶ,0.0,0,0
+place emphasis on,～に重点を置く,0.0,0,0
+put up,～を建てる、掲示する,0.0,0,0
+run into,～と出くわす,0.0,0,0
+send in,～を提出する,0.0,0,0
+set aside,～を取っておく,0.0,0,0
+take inventory,棚卸をする、在庫を数える,0.0,0,0
+take opportunity to do,機会を利用して～する,0.0,0,0
+above all,とりわけ、何よりも,0.0,0,0
+adjacent to,～に隣接した,0.0,0,0
+as a token of appreciation,感謝のしるしとして,0.0,0,0
+as if,まるで～であるかのように,0.0,0,0
+be aimed at,～を目的としている,0.0,0,0
+be running late,予定より遅れている,0.0,0,0
+be running low,～が残り少なくなっている,0.0,0,0
+by way of,～経由で、～の手段として,0.0,0,0
+can't wait,楽しみだ、待ちきれない,0.5,1,1
+end up doing,結局～する,0.0,0,0
+give away,無料で提供する,0.0,0,0
+go with,受け入れる、一緒に行く、伴う,0.0,0,0
+happen to do,たまたま～する,0.0,0,0
+head to/for,～に向かう,0.0,0,0
+in a rush,大急ぎで,0.0,0,0
+in a timely manner,タイミングよく、遅れずに,0.0,0,0
+in general,一般的に、全体的に,0.0,0,0
+in honor of,～を称えて,0.0,0,0
+in preparation for,～に備えて,0.0,0,0
+in progress,進行中で,0.0,0,0
+in recognition of,～を称えて,0.0,0,1
+in the long run,長期的には,0.5,1,1
+in the vicinity of,～の近くで,0.0,0,0
+just in case,万が一に備えて,0.0,0,0
+just so you know,念のため知らせると、ちなみに,0.0,0,0
+keep up with,～を続ける,0.0,0,0
+look no further than,～以外を見る必要はない,0.0,0,0
+miss out,機会を逃す,0.0,0,1
+on hold,取り置きにして、保留の状態で,0.0,0,0
+on the other hand,その一方で,0.0,0,0
+out of order,故障中で,0.0,0,0
+pass by,～のそばを通る,0.0,0,0
+pass on X to Y,XをYに転嫁する,0.0,0,0
+pass out,～を配る,0.0,0,0
+pull up,（情報を）引き出す、（車が）停まる,0.0,0,0
+reach into,～の中に手を入れる,0.0,0,0
+report to work,出勤する,0.0,0,0
+run out of,～を使い切る,0.0,0,0
+set X apart from Y,XをYから際立たせる,0.0,0,0
+settle in/into,落ち着く、なれる,0.0,0,2
+speak highly of,～を褒める,0.0,0,0
+stuck in traffic,渋滞にはまって,0.0,0,0
+take turns,順番に行う、交替でする,0.0,0,0
+tear down,～を取り壊す,0.0,0,0
+throw a party,パーティを開く,0.0,0,0
+turn in,～を提出する,0.0,0,0
+unless otherwise noted,特に断りがない限り,0.0,0,0
+until further notice,別途通知があるまでの間,0.0,0,0
+when it comes to,～のことになると、～に関して言えば,0.0,0,0
+work out,うまくいく、解決する,0.0,0,0
+a good chance,十分な可能性,0.0,0,0
+a round of applause,盛大な拍手,0.0,0,0
+among other things,数ある中で、とりわけ,0.0,0,0
+and so on,～など,0.0,0,0
+as early as,早ければ,0.0,0,0
+as to whether,～かどうかについて,0.0,0,0
+at most,多くても,0.0,0,0
+at present,現在は,0.0,0,0
+be capable of,～の能力がある,0.0,0,0
+be credited with,～の功績がある,0.0,0,0
+be devoted to,～に特化した、～に献身的な,0.25,1,2
+be reluctant to do,～するのを渋る,0.0,0,0
+by far,はるかに,0.0,0,0
+call your attention to,～にご注意ください,0.0,0,0
+come across,出くわす,0.0,0,0
+come to an agreement,（合意などに）達する,0.0,0,0
+contrary to,～に反して,0.0,0,0
+cordially invite,謹んで招待する,0.0,0,0
+book,～を予約する,0.0,0,0
+hold,～を行う、～を手に持つ,0.0,0,1
+join,～に加わる,0.0,0,0
+mail,～を郵送する,0.0,0,0
+meet,～を満たす、～に間に合う,0.5,1,1
+place,（注文や広告を）出す、～を置く,0.0,0,0
+present,～を提示する、～を授与する,0.0,0,0
+receive,～を受ける、～を受け取る,0.0,0,0
+return,～を戻す、～を返品する、折り返す,0.0,0,0
+rise,上がる,0.0,0,0
+run,～を運営する、～を行う、～を走らせる,0.0,0,0
+save,～を節約する、～を保存する、～を取っておく,0.0,0,0
+visit,～を訪れる、訪問する,0.0,0,0
+accept,～を受け入れる、～を受け取る,0.0,0,0
+announce,～を発表する,0.5,1,1
+arrange,～を手配する、手配する,0.0,0,0
+attend to,～に出席する、～に参加する、対処する,0.0,0,0
+complete,～を完了させる、～を完成させる、～に記入する,0.0,0,0
+deliver,～を配達する、（演説等）行う、配達する,0.0,0,0
+develop,～を開発する、～を作り出す、（スキル等を）高める、発展する,0.0,0,0
+earn,～を得る、稼ぐ、～を獲得する,0.0,0,0
+express,～を表す,0.0,0,0
+host,～を主催する,0.0,0,0
+improve,～を改善する、～を改良する、改善する,0.0,0,0
+inform,知らせる,0.5,1,1
+perform,～を遂行する、～を演じる、公演する,0.0,0,0
+prepare,～を準備する、～を用意する、準備する,0.0,0,0
+process,～を処理する,0.0,0,0
+provide,～を提供する、～に提供する,0.0,0,0
+publish,～を出版する、～を掲載する、～を発表する,0.0,0,0
+raise,（お金を）集める、～を上げる、～を高める,0.0,0,0
+reserve,～を予約する、～を確保する,0.0,0,0
+approve,～を承認する、賛成する,0.5,1,1
+attract,～を惹きつける、～を呼び込む,0.0,0,0
+conduct,～を行う、～を実施する,0.0,0,0
+confirm,～を確認する,0.5,1,1
+deserve,～に値する,0.0,0,0
+issue,（正式に）～を出す、～を発行する,0.0,0,0
+recognize,称える、認める,0.0,0,0
+reduce,（値段を）下げる、～を減らす,0.0,0,0
+require,～を必要とする、～を要求する,0.0,0,0
+reschedule,～の予定を変更する,0.0,0,0
+review,～に目を通す、～を検討する,0.0,0,1
+seek,～を探し求める、～を募集する,0.0,0,0
+acquire,～を買収する、～を得る,0.0,0,0
+decline,～を断る、～を辞退する、減る、辞退する,0.0,0,0
+expand,～を拡大する、～を拡張する、進出する、広がる,0.0,0,0
+extend,～を延長する、（感謝、お詫びの気持ちを）表す、伸びる、広がる,0.0,0,0
+finalize,～を取りまとめる、～を仕上げる,0.0,0,0
+obtain,～を得る、～をもらう,0.0,0,0
+organize,取りまとめる、～を組織化する、～を整理する,0.0,0,0
+postpone,～を延期する,0.0,0,0
+promote,～を宣伝する、～を進出する,0.0,0,0
+resolve,～を解決する,0.0,0,0
+restore,～を復活させる、～を修復する,0.0,0,0
+retain,～を維持する、～を保管する、～を保持する,0.0,0,0
+submit,～を提出する,0.0,0,0
+exceed,～を超える,0.0,0,0
+fulfill,～を達成する、～を満たす,0.0,0,0
+implement,～を実行する、～を実施する,0.0,0,0
+inspect,～を検査する、～を調べる,0.0,0,0
+recruit,～を採用する、～を募集する,0.0,0,0
+renew,～を更新する,0.0,0,0
+resume,～を再開する、再開する,0.0,0,0
+undergo,（検査、修理等を）受ける、～を経験する,0.0,0,0
+generate,～を生み出す、～を生む,0.5,1,1
+revise,～を修正する、～を見直す,0.0,0,0
+incur,（罰金等を）被る、～を受ける、～を負担する,0.0,0,1
+publicize,～を宣伝する、～を告知する,0.0,0,0
+occupied,使われている,0.0,0,0
+overlook,見下ろす位置にある,0.0,0,0
+pedestrain,歩行者,0.0,0,0
+plank,厚板,0.0,0,0
+point,指す、指差す,0.0,0,0
+position,位置に置く、位置を合わせる,0.0,0,0
+potted plant,鉢植え,0.5,1,1
+pottery,陶器,0.0,0,0
+pour,注ぐ,0.0,0,0
+railing,手すり,0.0,0,0
+rake,熊手、熊手でかき集める,0.0,0,0
+count on,～を頼る、あてにする,0.0,0,0
+cut back on,～を削減する、切り詰める,0.0,0,0
+fill an order,注文処理する、注文に応じる,0.0,0,1
+fill in for,～の代わりを務める,0.0,0,0
+get through,片付ける、終える、やり通す,0.0,0,0
+get together,集まる,0.0,0,0
+give a hand,手を貸す,0.0,0,0
+halfway through,～の途中で,0.0,0,0
+hand in,～を提出する,0.0,0,0
+in compliance with,～に従って、～を順守して,0.5,1,1
+in contrast to,～とは対照的に,0.0,0,0
+in exchange for,～と交換に、～と引き換えに,0.0,0,0
+in favor of,～に賛成して,0.0,0,0
+in place of,～の代わりに,0.0,0,0
+in return,お返しに,0.0,0,0
+in shape,体調が万全である,0.0,0,0
+in short,要するに,0.0,0,0
+lay out,～を広げる,0.0,0,0
+leave behind,～を置き忘れる,0.0,0,0
+make a point of doing,あえて～する、必ず～するようにする,0.0,0,0
+on one's own,独力で,0.0,0,0
+out of print,絶版の,0.0,0,0
+pay attention to,～に注意を払う,0.0,0,0
+pick out,～を選ぶ,0.0,0,0
+pride oneself on,～を誇りにする,0.0,0,0
+put forth,出す、提案する,0.0,0,0
+put you through to,（電話を）～につなぐ,0.0,0,0
+rest assured,ご安心ください,0.0,0,1
+run errands,用事で出かける、お使いをする,0.0,0,0
+show X around Y,XにYを案内する,0.0,0,0
+show off,～を披露する、誇示する,0.0,0,0
+so as to do,～するために,0.0,0,1
+stand out from,～から抜きん出る、～より目立つ,0.0,0,0
+take a message,伝言を受け取る,0.5,1,1
+take notes,メモをとる,0.0,0,0
+tend to do,～しがちだ,0.0,0,0
+throw away,～を捨てる,0.0,0,0
+to date,今までで,0.0,0,0
+tune in to,～にチャンネルを合わせる,0.0,0,0
+turn down,～を断る、（温度などを）下げる,0.0,0,0
+turn out,～だとわかる,0.0,0,0
+turn to,参照する、頼る,0.0,0,0
+turn X over to Y,XをYに引き渡す、引き継ぐ,0.0,0,0
+up and running,始動する、ちゃんと動き出す,0.0,0,0
+a course of action,行動方針、一連の行動,0.0,0,0
+a wealth of,豊富な,0.0,0,0
+as far as,～する範囲では,0.0,0,0
+as it happens,たまたま、偶然,0.0,0,0
+aside from,～は別として、～に加えて,0.0,0,0
+at one's disposal,～が自由に使える,0.0,0,0
+at the discretion of,～の裁量で,0.0,0,0
+at the forefront of,～の最前線にいる,0.0,0,0
+at the last minutes,土壇場で、間際で,0.0,0,0
+at your earliest convenience,あなたの都合がつき次第,0.0,0,0
+be accustomed to,～に慣れている,0.0,0,1
+be propped up against,～に立てかけられる,0.0,0,0
+by a wide margin,大差で,0.0,0,1
+by any chance,ひょっとして,0.0,0,0
+by mistake,誤って,0.0,0,0
+call in sick,病欠の電話を入れる,0.0,0,0
+cast a shadow,影を落とす,0.0,0,0
+come to a standstill,完全に停止する,0.0,0,0
+come to think of it,考えてみれば、そういえば,0.0,0,0
+come up,起こる、近づく,0.0,0,0
+deal with,～に対処する、～に対応する,0.0,0,1
+every hour on the hour,毎正時,0.0,0,0
+for the time being,当面の間,0.0,0,0
+get acquainted with,～をよく理解する,0.0,0,0
+get along with,～とうまくやっていく,0.0,0,0
+has/have yet to do,まだ～してない,0.0,0,0
+have no choice but to do,～する他にない,0.0,0,0
+if applicable,該当する場合,0.0,0,0
+in accordance with,～に従って,0.0,0,0
+in anticipation of,～を見込んで、～を予想して,0.0,0,0
+in appreciation of,～に感謝して,0.0,0,0
+in for a treat,楽しみなことがある、お楽しみに,0.0,0,0
+in keeping with,～に合わせて、～に沿って,0.0,0,1
+in line for,～の候補で,0.0,0,0
+in observance of,～を順守して,0.0,0,1
+in order of,～順に,0.0,0,1
+in other words,言い換えれば,0.0,0,0
+in the distance,遠くに,0.0,0,1
+in the same direction,同じ方向に,0.0,0,0
+jot down,～を書き留める,0.0,0,0
+keep an eye on,～から目を離さない、～を見張る,0.0,0,0
+keep an eye out for,～を注視する,0.0,0,0
+keep X posted,Xに随時報告する,0.0,0,0
+land a job,仕事を得る,0.0,0,0
+lay off,～を解雇する,0.0,0,0
+let up,（風雨などが）止む、弱まる,0.0,0,0
+live up to,（期待、要望に）応える,0.0,0,0
+look up to,～を尊敬する,0.0,0,1
+mark down,～を値下げする,0.0,0,0
+move over,席を詰める,0.0,0,0
+narrow down,（候補を）絞り込む,0.0,0,0
+on average,平均で,0.0,0,0
+on request,リクエストがあれば,0.0,0,0
+on the line,電話を保留中で,0.0,0,1
+on the whole,全体として,0.0,0,0
+once in a while,たまに,0.0,0,0
+because of,～が理由で,0.0,0,0
+due to,～が理由で,0.0,0,0
+in addition to,～に加えて,0.5,1,1
+instead of,～の代わりに,0.0,0,0
+other than,～以外は,0.0,0,1
+in spite of,～にもかかわらず,0.0,0,0
+regardless of,～に関係なく,0.0,0,0
+except for,～を除いて,0.0,0,0
+in light of,～を考慮して,0.0,0,0
+owing to,～が理由で,0.0,0,0
+in the event of,～の場合,0.0,0,0
+on account of,～が理由で,0.0,0,0
+so that,～するように,0.0,0,0
+as soon as,～するとすぐに,0.5,1,1
+in case,～した場合に備えて,0.0,0,0
+as long as,～する限り、～する場合のみ,0.0,0,0
+now that,今は～なので,0.0,0,0
+provided that,～という条件で,0.0,0,0
+given that,～することを考慮すると,0.0,0,1
+in the event that,～した場合,0.0,0,1
+even if,たとえ～だとしても,0.0,0,0
+even though,～だけれども,0.0,0,0
+rest,休ませる、休む,0.0,0,0
+rug,カーペット,0.0,0,0
+scale,測り,0.0,0,0
+sign,標識、張り紙,0.0,0,0
+stack,積み重ねる,0.0,0,0
+staircase,（室内にある手すりのついた）階段,0.0,0,0
+stool,スツール（背もたれのない椅子）,0.0,0,0
+sweep,掃く,0.0,0,0
+walkway,歩道,0.5,1,1
+wheelbarrow,一輪車,0.0,0,0
+out of place,場違いの,0.0,0,0
+out of service,運転停止中で,0.0,0,0
+page through,パラパラ見る,0.0,0,0
+pass up,（チャンスなどを）見送る,0.0,0,0
+pay a visit,訪れる,0.0,0,0
+put off,～を延期する,0.0,0,0
+set forth,説明する、明記する,0.0,0,0
+set out,スタートする、出発する,0.0,0,0
+show up,姿を表す、現れる,0.0,0,1
+so kind as to do,親切にも～する,0.0,0,0
+sort out,～にうまく対処する,0.0,0,0
+spare no expense,出費を惜しまない,0.0,0,0
+step down as,～の座を退く,0.0,0,0
+take measures,対策を講じる,0.0,0,0
+take one's word for it,～の言葉をそのまま信じる、鵜呑みにする,0.0,0,0
+take out insurance,保険に入る,0.0,0,0
+take X for granted,Xを当たり前だと思う,0.0,0,0
+take X into consideration,Xを考慮に入れる,0.0,0,0
+take X up on Y,XのYを受け入れる,0.0,0,0
+to begin with,まず最初に、そもそも,0.0,0,0
+to say the least,控えめに言っても,0.0,0,0
+to the point,的を射ている,0.0,0,0
+turn away,～を追い返す、背を向ける,0.6666666666666667,2,2
+turn up,（音量などを）上げる,0.0,0,0
+turn X into Y,XをYに変える,0.0,0,0
+with the exception of,～を除いて,0.0,0,0
+worn out,使いつくされた,0.0,0,0
+beat the rush,混雑を避ける,0.0,0,0
+leave off,終わる、～するのを止める、省く,0.0,0,0
+beyond repair,修理の範囲を超えている,0.0,0,0
+likely,おそらく、～しそうだ,0.0,0,0
+anyway,とにかく,0.0,0,0
+ladder,はしご,0.0,0,0
+lean,寄りかかる,0.0,0,0
+brick,レンガ,0.0,0,0
+reach,手をのばす、達する,0.0,0,0
+purse,ハンドバッグ,0.0,0,0
+fountain,噴水,0.0,0,0
+workload,仕事量,0.0,0,0
+divide,分ける,0.0,0,0
+fairly,かなり,0.0,0,0
+equally,均等に、同じように,0.0,0,0
+based,拠点を置く、基づく,0.0,0,0
+recently,最近、少し前に,0.0,0,0
+ownership,所有、所有者であること,0.0,0,0
+struggle,奮闘する,0.0,0,0
+secure,確保する、安全な,0.0,0,0
+stable,安定した,0.0,0,0
+branch,支店、枝,0.0,0,0
+conveniently,便利に,0.0,0,0
+located,～に位置している,0.0,0,0
+close to,～に近い,0.0,0,0
+public,公共の,0.0,0,0
+transportation,輸送、移動手段,0.0,0,0
+promising,前途有望な,0.0,0,0
+deserve,値する,0.0,0,0
+recommendation,推薦,0.0,0,0
+change,お釣り,0.5,1,1
+exact,正確な,0.0,0,0
+fare,運賃、料理,0.0,0,0
+board,乗り込む、取締役会、掲示板,0.0,0,0
+service,点検する、サービス,0.0,0,0
+authorize,公認する、権限を与える,0.0,0,0
+dealership,販売特約店,0.0,0,0
+patio,テラス,0.0,0,0
+unoccupied,使われていない,0.0,0,0
+refer,紹介する、差し向ける、参照する,0.0,0,0
+bill,請求書、議案,0.5,1,1
+quote,見積もり、引用,0.0,0,0
+refer,参照する、言及する、～に関する,0.0,0,0
+packet,バッグ、小包,0.0,0,0
+mail,輸送する、郵便物,0.0,0,0
+examine,詳しく見る、チェックする,0.0,0,0
+laboratory,研究所、実験室,0.0,0,0
+equipment,機器、設備,0.0,0,0
+sculpture,彫刻,0.0,0,0
+urgent,緊急の,0.0,0,0
+repair,修理、修理する,0.0,0,0
+microwave oven,電子レンジ,0.0,0,0
+position,位置に置く、職,0.0,0,0
+stove,コンロ,0.0,0,0
+option,選択肢、オプション,0.0,0,0
+hire,雇う、採用者,0.0,0,0
+additional,追加の,0.0,0,0
+execute,実行する,0.5,1,1
+purchase,購入する,0.5,1,1
+guided,ガイド付きの,0.0,0,0
+tour,ツアー、見学、旅行,0.0,0,0
+review,検討する、目を通す,0.0,0,0
+proposal,提案,0.0,0,0
+adjustment,調整、調節,0.0,0,0
+overnight,一晩の、翌日配送の,0.0,0,1
+allow,許す、可能にする,0.0,0,0
+designated,指名された、指定された,0.0,0,1
+diner,食事客,0.0,0,0
+face,向く、直面する,0.0,0,0
+awning,日除け,0.0,0,0
+artwork,芸術作品、イラスト,0.0,0,0
+mount,据える、固定する,0.0,0,0
+beside,～のそばに,0.0,0,0
+staircase,室内にある手すりのついた階段,0.0,0,0
+resister,登録する,0.0,0,0
+remarkable,注目すべき、驚くべき,0.0,0,0
+management,経営、管理,0.0,0,0
+lamppost,街路灯,0.0,0,0
+cast a shadow,影を落とす,0.0,0,1
+walkway,歩道,0.5,1,1
+directly,直接,0.0,0,0
+influence,影響を与える,0.0,0,0
+artifact,工芸品,0.0,0,0
+tourism,観光事業,0.0,0,0
+account,占める、説明する,0.0,0,1
+roughly,おおよそ,0.0,0,0
+workforce,労働人口、全従業員,0.0,0,0
+strict,厳しい,0.0,0,1
+enforce,実行する、矯正する,0.5,1,1
+downtown,中心街の,0.0,0,0
+district,地区,0.0,0,0
+currently,現在,0.0,0,1
+seek,探し求める,0.0,0,0
+enthusiastic,熱心な,0.0,0,0
+extraordinary,並外れた,0.0,0,0
+contribution,貢献、寄付,0.0,0,0
+field,分野、野原,0.0,0,0
+early childhood education,幼児教育,0.0,0,0
+logical,妥当な、論理的な,0.0,0,0
+replace,後任となる、交換する、取って代わる,0.0,0,0
+resign,辞職する、辞任する,0.0,0,0
+stool,スツール（背もたれのない椅子）,0.0,0,0
+stack,積み重ねる、山積み,0.0,0,0
+next to,～の隣に,0.0,0,0
+doorway,戸口,0.0,0,0
+fame,名声,0.0,0,0
+direct,監督する、向ける、管理する、直接の,0.0,0,0
+star,主演する、スター,0.0,0,0
+tentative,仮の,0.0,0,0
+booking,予約,0.0,0,0
+I'm afraid,残念ながら,0.5,1,1
+unfortunately,残念ながら,0.0,0,0
+no longer,もはや～ない,0.0,0,0
+carry,扱う、持ち運ぶ,0.0,0,0
+particular,特定の,0.0,0,0
+laptop,ノートPC,0.0,0,0
+administrative,管理の,0.0,0,0
+financial,金融の、お金の,0.0,0,0
+firm,（法律や会計など専門的なサービスを提供する）会社、事務所,0.0,0,2
+leave,休暇、出発する、去る、残す、～のままにする,0.5,1,1
+previous,前の、以前の,0.0,0,1
+automatically,自動的に,0.0,0,0
+carry forward,持ち越す,0.0,0,0
+intended,意図された、向けられた,0.0,0,0
+both X and Y,XとYの両方とも,0.0,0,0
+introductory,入門の、最初の、お試しの,0.0,0,0
+advanced,上級の、進んだ、高度な,0.0,0,0
+majority,大多数、大部分,0.0,0,0
+servey,アンケート調査を行う、アンケート調査,0.0,0,0
+state,述べる、状態、州,0.0,0,0
+familiar,よく知っている、おなじみの,0.0,0,0
+bush,茂み,0.0,0,0
+trim,狩り揃える,0.0,0,0
+courtyard,（建物や壁に囲まれた）中庭,0.0,0,0
+pleased,喜んで、まんぞくして,0.0,0,0
+confirm,確認する,0.0,0,0
+reservation,予約、懸念、慎重な姿勢,0.5,1,1
+inn,宿、ホテル,0.0,0,0
+blueprint,設計図,0.0,0,0
+convention,会議、大会,0.0,0,1
+proudly,誇らしげに、堂々と,0.0,0,0
+announce,発表する,0.0,0,0
+launch,開始、発売、開始する、発売する,0.0,0,0
+update,更新する、最新情報,0.0,0,0
+agency,代理店、機関,0.0,0,1
+launch,開始する、発売する、開始、発売,0.5,1,1
+book,予約する、本,0.0,0,0
+last-minute,間際になっての、土壇場の,0.0,0,0
+accomodations,宿泊施設,0.0,0,0
+employee,社員、従業員,0.0,0,0
+require,必要とする、要求する,0.0,0,0
+attend,出席する、参加する、対処する,0.0,0,1
+orientation,説明会,0.0,0,0
+plant,植物、工場、植える,0.0,0,0
+expose,さらす、触れさせる、暴露する,0.0,0,0
+sufficient,十分な,0.5,1,1
+essential,極めて重要な、必要不可欠な、本質的な,0.0,0,0
+partial,一部の、部分的な,0.0,0,0
+payment,支払い,0.0,0,0
+outstanding,未払いの、卓越した、抜きん出た,0.0,0,0
+balance,残額、残金、バランス、バランスを取る,0.0,0,0
+review,論評、検討、検討する、目を通す、論評する,0.0,0,0
+washing machine,洗濯機,0.0,0,0
+delayed-start,タイマー予約の,0.0,0,0
+finction,機能、パーティ、イベント、機能する,0.0,0,0
+quite,かなり,0.0,0,0
+useful,役立つ,0.0,0,0
+prefer,～を（～よりも）好む,0.0,0,1
+aisle,通路,0.0,0,0
+preference,希望、好み,0.0,0,0
+imply,ほのめかす、暗示する,0.0,0,1
+frequent,頻繁な、常連の,0.0,0,0
+flyer,乗客、チラシ,0.0,0,0
+present,提示する、与える、現在、プレゼント、その場にいる、現在の,0.0,0,0
+findings,結果、わかったこと,0.5,1,1
+a number of,いくつかの,0.0,0,0
+conference,会議,0.0,0,0
+highly,非常に、高く,0.0,0,0
+praise,ほめる、称賛,0.0,0,1
+basis,ベース、基準、根拠,0.0,0,0
+consideration,検討、検討事項、配慮,0.0,0,0
+application,応募、申請、適用,0.0,0,0
+look forward to,～を楽しみにする,0.5,1,1
+hear from,～から連絡をもらう,0.0,0,1
+chemical,化学物質、科学の,0.0,0,0
+keenly,鋭く、熱心に,0.5,1,1
+aware,気づいて,0.0,0,0
+involved,含まれている、関わった,0.0,0,0
+kneel,ひざをつく,0.0,0,0
+lawn,芝生,0.0,0,0
+wheelbarrow,手押し車,0.0,0,1
+finalize,最終決定する、取りまとめる,0.0,0,0
+detail,詳細、詳しく調べる,0.0,0,0
+banquest,夕食会、晩餐会,0.0,0,0
+complete,記入する、完了する、完了した、全部揃った,0.5,1,1
+questionnaire,アンケート、問診票,0.0,0,1
+reverse,反対の、逆、覆す,0.0,0,0
+overall,全体として,0.0,0,0
+approach,方法、考え方、近づく,0.0,0,0
+informative,有益な,0.0,0,0
+worth,価値がある,0.0,0,0
+particularly,特に,0.0,0,0
+crowded,混雑した,0.0,0,0
+lately,この頃、最近,0.0,0,0
+bicentennial,２００周年の,0.0,0,0
+pour,注ぐ,0.0,0,0
+solution,溶液、解決策,0.0,0,0
+protective,防護用の,0.0,0,0
+clothing,衣類、衣料品,0.0,0,0
+force,強制する、力,0.0,0,0
+overtime,時間外に、残業,0.0,0,0
+exhausted,疲れ切った,0.0,0,0
+stressed,ストレスが溜まる、ストレスがかかる,0.0,0,0
+consider,考える、検討する,0.0,0,0
+challenging,困難だがやりがいのある,0.0,0,0
+endeavor,試み、努力、努力する,0.0,0,0
+deverse,多様な、沢山の種類の,0.0,0,0
+background,経歴、背景,0.0,0,0
+fluent,流暢な、堪能な,0.0,0,0
+Mandarin,標準中国語,0.0,0,0
+mention,述べる、言及する、言及,0.0,0,0
+completely,完全に,0.5,1,1
+prior,前の、事前の,0.0,0,0
+engagement,約束,0.0,0,0
+insturumental,重要な役割を果たして,0.0,0,0
+establish,設立する、創設する、確立する,0.0,0,0
+presence,存在感、存在、出席,0.0,0,0
+emerging,振興の、新たに現れた,0.0,0,0
+paid,有給の、支払い済みの,0.0,0,0
+hands-on,実地の、実用的な,0.0,0,0
+headquarters,本社,0.0,0,1
+memo,社内文書、内部通達,0.0,0,0
+interoffice,社内の、オフィス感の,0.0,0,0
+mail,郵便物、郵便配達、郵送する,0.0,0,0
+X rather than Y,XではなくY,0.0,0,0
+deliver,配達する、届ける、演説する,0.0,0,0
+in person,直接、直に,0.0,0,0
+shed,物置,0.0,0,0
+mover,引越し業者,0.0,0,0
+Inc.,株式会社,0.0,0,0
+manage,なんとか～する、運営管理する、対処する,0.0,0,0
+generate,生み出す,0.0,0,0
+attract,呼び込む、引きつける、誘致する,0.0,0,0
+permanent,常雇用の、常設の、永久の,0.0,0,0
+replacement,後任、交換、交換品,0.5,1,1
+relief,安心感、緩和,0.0,0,0
+understaffed,人手不足の,0.0,0,0
+reschedule,スケジュール変更する,0.5,1,1
+appointment,アポ、指名、任命、予約、約束,0.0,0,0
+rarely,めったに～しない、まれに,0.0,0,0
+occur,起こる、発生する、行われる,0.0,0,0
+press conference,記者会見,0.0,0,1
+express,表す、急ぎの、速達、急行,0.0,0,0
+enthusiasm,熱意、熱心さ,0.5,1,1
+research,研究、調査、研究する、調査する,0.0,0,0
+annual,年に一度の、毎年恒例の、年間の,0.0,0,0
+run,続く、運営する、作動させる、掲載する、放映する、走る,0.0,0,0
+cover,報道する、保証する、補う、カバー、表紙,0.5,1,1
+local,地元の、地域の、地元の人,0.0,0,0
+brochure,パンフレット,0.0,0,0
+commonly,一般に、通常、普通に,0.0,0,0
+promote,宣伝する、昇進させる、推進する,0.0,0,0
+helpful,助けになる、役立つ,0.5,1,1
+retrieve,取り戻す、復元する,0.0,0,1
+luggage,手荷物、旅行かばん,0.0,0,0
+popularity,人気,0.0,0,0
+rapidly,急速に,0.0,0,0
+affordable,手頃な,0.0,0,0
+attempt,試みる、試み,0.0,0,0
+locate,見つける,0.0,0,0
+jewelry,宝飾品,0.0,0,0
+local,地元の人、地元の、地域の,0.0,0,0
+direction,道順、指示、方向,0.0,0,0
+informal,カジュアルな、非公式の、形式張らない,0.5,1,1
+offer,申し出る、提供する、申し出、オファー,0.0,0,0
+human resources,人事,0.0,0,0
+department,部、部署、売り場,0.0,0,0
+bottling machine,瓶詰め機,0.0,0,0
+assembly,組み立て、集会,0.0,0,0
+order,注文、順番、命令、注文する、命令する,0.0,0,0
+affect,影響する,0.0,0,0
+countless,数え切れないほどの、無数の,0.0,0,0
+impress,感心させる、好印象を与える,0.0,0,0
+craftspeople,職人,0.0,0,0
+management,管理、経営,0.0,0,0
+occupied,使われている,0.0,0,0
+rent,家賃、レンタル、賃貸借する、レンタルする,0.0,0,0
+clothier,衣料品店、アパレルショップ,0.0,0,0
+nearly,ほとんど、もうすこしで,0.0,0,0
+retail,小売,0.0,0,0
+outlet,店舗、コンセント,0.0,0,0
+scholarship,奨学金,0.0,0,0
+recognize,称える、認める、識別する,0.0,0,0
+demonstrate,明示する、実演する,0.0,0,0
+academic,学問の、教育の,0.0,0,0
+excellence,優秀さ、優れていること,0.0,0,0
+reception,受付、パーティ、受信状況、受け入れ,0.0,0,0
+foyer,ロビー、玄関,0.0,0,0
+unattended,人がいない、放置された,0.0,0,0
+incorporate,取り入れる、組み込む,0.0,0,0
+traditional,伝統的な、従来の,0.5,1,1
+instrument,楽器,0.0,0,0
+contemporary,現代の,0.0,0,0
+testimonial,推薦の声、推薦文,0.0,0,0
+satisfied,満足した,0.0,0,0
+client,顧客、クライアント,0.0,0,0
+engaging,興味をそそる、魅力的な,0.0,0,1
+anecdote,逸話,0.0,0,0
+historical,歴史の,0.0,0,0
+figure,人物、数値,0.0,0,0
+assure,保証する、請け負う,0.0,0,0
+disturb,邪魔する、悩ませる,0.0,0,0
+surrounding,周辺の,0.0,0,0
+enviroment,環境,0.0,0,0
+cooperation,協力,0.0,0,0
+transition,移行、転身,0.5,1,1
+electoronic,電子の、オンラインの,0.5,1,1
+statement,明細書、声明,0.0,0,0
+tip,アドバイス、コツ,0.0,0,0
+avoid,避ける,0.0,0,0
+fraud,詐欺,0.0,0,0
+grant,補助金、助成金、与える、許可する,0.0,0,0
+enable,可能にする,0.0,0,0
+applause,拍手,0.0,0,0
+development,開発、成長、出来事、住宅地,0.0,0,0
+patented,特許取得済みの,0.0,0,0
+distinguished,傑出した、際立って優れた,0.0,0,0
+native,出身の人、出身の,0.0,0,0
+appoint,指名する、任命する,0.0,0,0
+vice president,副社長、部長,0.0,0,0
+look to do,～しようとする,0.0,0,0
+recruit,採用する、募集する、新人,0.0,0,0
+associate,アシスタントの、仲間、アシスタント、関連付ける,0.0,0,0
+lawyer,弁護士,0.0,0,0
+legal,法律に関する、合法の,0.5,1,1
+mining,鉱業、採鉱,0.0,0,0
+sector,部門,0.0,0,0
+modest,少しの、まずまずの、謙虚な,0.5,1,1
+increase,増加、増える、増やす,0.0,0,0
+output,生産高、生産量,0.0,0,0
+claim,主張する、所有権を主張する、申立、主張,0.0,0,0
+intentionally,意図的に,0.0,0,0
+omit,省く,0.0,0,0
+celebration,祝典、お祝い,0.0,0,0
+secure,しっかり固定する、確保する、安全な,0.0,0,0
+railing,手すり,0.0,0,0
+consequence,（～が招いた）結果,0.0,0,0
+fine,罰金、良い、優れた,0.0,0,0
+impose,課す、負わせる、強制する,0.0,0,0
+function,機能する、機能、パーティ、イベント,0.0,0,0
+properly,ちゃんと、適切に,0.0,0,0
+Not again.,またか。,0.0,0,0
+out of order,故障中,0.0,0,0
+operate,運営する、操作する,0.0,0,0
+acquire,買収する、得る、獲得する,0.0,0,0
+leading,首位の、一流の,0.0,0,0
+crew,グループ、班、上院,0.0,0,0
+efficient,効率的な,0.0,0,0
+courteous,礼儀正しい,0.0,0,0
+knowledgeable,知識が豊富な,0.0,0,0
+exhibit,展示会、展示物、展示する,0.0,0,0
+feature,目玉にする、大きく扱う、特徴、特集,0.0,0,0
+work,作品、仕事、作業、職場、働く、作業する、うまくいく,0.0,0,0
+architect,建築家,0.0,0,0
+advise,忠告する、勧める、助言する,0.5,1,1
+refuse,拒否する,0.0,0,0
+honor,（約束などを）守る、称える、名誉,0.0,0,0
+guarantee,保証、保証する,0.0,0,0
+contrast,対照、はっきりした違い、対照的である,0.0,0,0
+performance,業績、成績、公演、仕事ぶり、性能,0.0,0,0
+earn,得る、稼ぐ,0.0,0,0
+record,新記録の、記録、記録する,0.0,0,0
+quarter,四半期,0.5,1,1
+board of directors,役員,0.5,1,1
+accounting department,経理部,0.0,0,0
+marketing department,マーケティング部,0.0,0,0
+human resources department,人事部,0.0,0,0
+personnel department,人事部,0.0,0,0
+administrative department,管理部,0.0,0,0
+legal department,法務部,0.5,1,1
+sales department,営業部,0.0,0,0
+technology department,技術部,0.5,1,1
+security department,保安部,0.0,0,0
+purchasing department,購買部,0.0,0,0
+payroll department,給与部,0.0,0,0
+public department,広報部,0.0,0,0
+advertising department,宣伝部,0.5,1,1
+gengeral affairs department,総務部,0.0,0,0
+plumber,配管工,0.0,0,0
+mechanic,機械工,0.0,0,0
+carpenter,大工,0.0,0,0
+welder,溶接工,0.0,0,0
+electrician,電気屋,0.0,0,1
+civil engineer,土木技術士,0.0,0,0
+doctor,医師,0.0,0,0
+physician,医師,0.0,0,0
+dentist,司会,0.0,0,0
+surgeon,外界,0.0,0,0
+pharmacist,薬剤師,0.0,0,0
+veterinarian,獣医,0.0,0,0
+bakery,パン屋,0.0,0,0
+florist,花屋,0.0,0,0
+cleaner's,クリーニング店,0.0,0,0
+locksmith,鍵屋,0.0,0,0
+moving company,引越し業者,0.0,0,0
+hardware store,ホームセンター,0.0,0,0
+printer,印刷業者,0.0,0,1
+courier,宅配業者,0.1666666666666666,1,3
+real estate agency,不動産屋,0.0,0,0
+accountant,会計士,0.0,0,0
+auditor,会計監査官,0.0,0,0
+anthropologist,人類学者,0.0,0,1
+biologist,生物学者,0.0,0,0
+botanist,植物学者,0.0,0,0
+scientist,科学者,0.0,0,0
+chemist,化学者,0.5,1,1
+historian,歴史学者,0.0,0,0
+lawyer/attorney,弁護士,0.0,0,0
+prifessor,教授,0.0,0,0
+paralegal,弁護士補助員,0.0,0,1
+weather forecaster,気象予報士,0.0,0,0
+journalist,ジャーナリスト,0.0,0,0
+announcer,アナウンサー,0.5,1,1
+host,司会者,0.0,0,0
+correspondent,特派員,0.0,0,0
+editor,編集者,0.6666666666666667,2,2
+proofreader,校正者,0.0,0,0
+writer,ライター,0.0,0,0
+reporter,記者,0.0,0,0
+flight attendant,フライトアテンダント,0.0,0,0
+travel agent,旅行業者,0.0,0,0
+tour guide,ツアーガイド,0.0,0,0
+concierge,コンシェルジュ,0.0,0,0
+housekeeping,客室係,0.0,0,0
+condoctor,車掌・指揮者,0.0,0,0
+operator,オペレーター,0.6666666666666667,2,2
+lifeguard,ライフガード,0.5,1,1
+architect,建築家,0.0,0,0
+photogragher,写真家,0.0,0,0
+choreographer,振付師,0.0,0,0
+painter,画家,0.0,0,1
+musician,音楽家,0.0,0,0
+pianist,ピアニスト,0.0,0,0
+violinist,バイオリン奏者,0.0,0,0
+actor,俳優,0.0,0,0
+actress,女優,0.0,0,0
+novelist,小説家,0.0,0,0
+librarian,図書館員,0.0,0,0
+curator,学芸員,0.0,0,0
+receptionist,受付,0.0,0,0
+secretary,秘書,0.0,0,0
+spokesperson,広報担当者,0.0,0,1
+ambassador,大使,0.0,0,0
+security guard,警備員,0.0,0,0
+cashier,レジ係,0.0,0,0
+accounting,会計学,0.0,0,0
+architecture,建築学,0.0,0,0
+astronomy,天文学,0.0,0,0
+biology,生物学,0.0,0,0
+chemistry,化学,0.0,0,0
+ecology,生態学,0.0,0,0
+economics,経済学,0.0,0,0
+education,教育学,0.0,0,0
+engineering,工学,0.0,0,0
+fine art,芸術,0.0,0,0
+history,歴史学,0.0,0,0
+journalism,ジャーナリズム,0.0,0,0
+law,法学,0.0,0,0
+linguistics,言語学,0.0,0,0
+literature,文学,0.0,0,0
+mathematics,数学,0.0,0,0
+medicine,医学,0.0,0,0
+philosophy,哲学,0.0,0,0
+physics,物理学,0.0,0,0
+psychology,心理学,0.0,0,0
+robotics,ロボット工学,0.0,0,0
+sociology,社会学,0.0,0,0
+plumber,配管工,0.0,0,0
+repair,修理する、修理,0.0,0,0
+leak,漏れる、漏らす,0.5,1,1
+faucet,蛇口,0.0,0,1
+terminate,終わらせる,0.0,0,0
+contract,契約、契約する,0.0,0,0
+mutual,相互の、共通した,0.0,0,0
+consent,同意,0.0,0,0
+flexible,柔軟な、フレキシブルな,0.0,0,0
+arrangement,手配、配慮,0.0,0,0
+potential,可能性、潜在的な、見込みがある,0.0,0,0
+lower,下げる、より安い、より低い,0.0,0,0
+turnover,離職率,0.0,0,0
+go over,検討する、調べる,0.0,0,0
+revise,修正する、見直す,0.0,0,1
+estimate,見積もり、見積もる,0.0,0,0
+timeline,予定表,0.0,0,0
+specification,仕様,0.0,0,0
+be subject to,～の対象となる,0.0,0,0
+notice,通知、気づく,0.0,0,0
+obligation,義務,0.0,0,0
+hold,行う、手に持つ,0.0,0,0
+raffle,福引,0.0,0,0
+raise,（金を）集める、上げる、昇給,0.0,0,0
+fund,資金、基金、資金を提供する,0.0,0,0
+soar,急上昇する,0.0,0,0
+labor,労働、労働者,0.0,0,0
+pose,（問題等を）引き起こす,0.0,0,0
+serious,重大な、真剣な、重要な,0.0,0,0
+manufacturer,メーカー、製造業者,0.0,0,0
+row,列、（船を）こぐ,0.0,0,0
+curb,縁石,0.0,0,0
+intersection,交差点,0.0,0,1
+decade,１０年間、１０年,0.0,0,0
+textile,繊維、織物,0.0,0,0
+solid,確かな、信頼できる,0.0,0,0
+reputation,評判,0.0,0,0
+award,授与する、賞,0.0,0,0
+honor,名誉、称える,0.0,0,0
+recognition,称賛、認知、認識,0.0,0,0
+outstanding,卓越した、抜きん出た、未払いの,0.0,0,0
+scientific,科学の,0.0,0,0
+achievement,業績、達成,0.0,0,0
+conflict,衝突、対立、対立する,0.0,0,0
+postpone,延期する,0.0,0,0
+luncheon,昼食会,0.0,0,0
+skyscraper,高層ビル,0.0,0,0
+overlook,見下ろす位置にある、見過ごす,0.0,0,0
+dock,停泊する、船着き場,0.0,0,0
+pier,桟橋,0.0,0,0
+manage,運営管理する、対処する、なんとか～する,0.0,0,0
+analyze,分析する,0.0,0,0
+keep track of,～の記録をつける、～の経過を追う,0.0,0,0
+multiple,複数の,0.0,0,0
+platform,プラットフォーム、台,0.0,0,0
+CEO,最高経営責任者,0.0,0,0
+emphasize,強調する,0.0,0,0
+absolutely,完全に、間違いなく、もちろん,0.5,1,1
+confident,確信している、自信がある,0.0,0,0
+on the right track,正しい方向に向かって,0.0,0,0
+propose,提案する,0.0,0,0
+preserve,保護する、保存する、保護区,0.0,0,0
+historic,歴史的に重要な,0.0,0,0
+council,議会,0.0,0,0
+reject,却下する、拒否する,0.0,0,0
+in order for X to do,Xが～するために,0.0,0,0
+effective,効果的な、有効な,0.0,0,0
+match,合わせる、合う、匹敵する,0.5,1,1
+delivery,話し方、配達,0.0,0,0
+audience,聴衆,0.0,0,0
+agricultural,農業の,0.0,0,0
+export,輸出、輸出する,0.0,0,0
+decline,下降する、（丁寧に）断る、下降,0.0,0,0
+respectively,それぞれ,0.0,0,0
+convert,改造する、変える,0.0,0,0
+vacant,からの、空いた、欠員の,0.0,0,0
+warehouse,倉庫,0.0,0,0
+indicate,示す、示唆する,0.0,0,0
+subscription,購読、加入、回避,0.0,0,0
+expire,期限が切れる,0.0,0,0
+simply,単純に、単に,0.0,0,0
+fill out,記入する,0.0,0,0
+highlight,強調する、スポットを当てる、見どころ,0.0,0,0
+portion,部分、一人分の食事,0.0,0,0
+applicable,当てはまる、適用される,0.0,0,0
+respond,返事をする、応じる,0.5,1,1
+inquiry,問い合わせ,0.0,0,0
+rent,賃貸借する、レンタルする、賃貸借、レンタル,0.5,1,1
+retirement,退職,0.0,0,0
+significant,かなりの、大幅な、重要な,0.0,0,0
+impact,影響,0.0,0,0
+interact,交流する,0.0,0,0
+strive,懸命に努力する,0.0,0,0
+reasonable,手頃な、妥当な,0.0,0,0
+compromise,妥協する、（名声などを）傷つける、台無しにする,0.0,0,0
+thorough,徹底的な、細部に渡る、几帳面な,0.0,0,0
+detailed,詳しい,0.0,0,0
+subject,主題、件名、科目、～の対象となる,0.0,0,0
+beyond,～を越えて,0.0,0,0
+scope,範囲、余地,0.0,0,0
+take advantage of,～を利用する,0.0,0,0
+deal,取引条件、取引、量、対処する,0.0,0,0
+apply,あてはまる、応募する、申請する、適用する,0.0,0,0
+catering,ケータリング、仕出し、出前,0.0,0,0
+introduce,紹介する、導入する,0.0,0,0
+characteristic,特徴、特徴的な,0.0,0,0
+underwater,水中の、水中で,0.0,0,0
+method,方法,0.0,0,0
+operate,操作する、運営する,0.0,0,0
+struggle,苦闘、奮闘、奮闘する,0.0,0,0
+attribute,起因すると考える、おかげであるとする,0.0,0,0
+fierce,熾烈な、激しい,0.0,0,0
+competition,競争、コンテスト、協議会、競争相手,0.0,0,0
+fast fashion,ファストファッション,0.0,0,0
+attach,添付する,0.0,0,0
+brief,手短な、短時間の、要約、要点を与える,0.0,0,0
+biography,人物紹介、略歴、伝記,0.0,0,1
+professional,職業上の、プロの、専門職の、プロ、専門家,0.0,0,0
+arrival,到着,0.0,0,0
+status,状況、地位,0.0,0,0
+beforehand,事前に、予め,0.0,0,0
+session,集まり、時間,0.0,0,0
+overseas,海外で、海外の,0.0,0,0
+precisely,正確に,0.0,0,0
+complimentary,無料の,0.0,0,0
+refreshments,軽い飲食物,0.0,0,0
+available,入手できる、利用できる、購入できる、手が空いている,0.0,0,0
+throughout,～の中ずっと、～の至るところで,0.0,0,0
+following,～に続いて、次の、以下の,0.0,0,0
+correspondence,やり取り、手紙,0.0,0,0
+itinerary,旅定表,0.0,0,0
+delivery,配達、話し方,0.0,0,0
+via,～を経由して、～によって,0.0,0,0
+freight,貨物、輸送、輸送量、輸送する,0.0,0,0
+initiative,新たな取組、主導権、主体性,0.0,0,0
+supply,供給する、必需品、用品,0.5,1,1
+remote,人里離れた、可能性が低い、リモコン,0.0,0,0
+fund,資金を提供する、資金、基金,0.0,0,0
+factor,要素、僧院,0.0,0,0
+vital,不可欠な、非常に重要な,0.0,0,1
+fulfill,達成する、満たす,0.0,0,0
+persistance,粘り強さ,0.0,0,0
+process,処理する、プロセス、過程、処理,0.0,0,0
+invoice,請求書、送り状,0.0,0,0
+not yet,まだ～ない,inf,1,0
+shipment,配送、配送品、積み荷,0.0,0,0
+delay,遅らせる、遅れ,0.0,0,0
+generally,通常、一般に、おおむね,0.0,0,0
+reward,褒美を与える、報いる、報酬、ほうび,0.5,1,1
+loyal,忠実な,0.0,0,0
+incentive,動機づけ、やる気を起こさせるもの,0.0,0,0
+offer,オファー、申し出、申し出る、提供する,0.0,0,0
+remind,再確認する、念押しする,0.0,0,0
+deadline,締め切り、期限,0.0,0,0
+submission,提出,0.5,1,1
+draft,原稿、下書き、たたき台,0.0,0,0
+decline,（丁寧に）断る、下降する、下降,0.0,0,0
+invitation,招待,0.0,0,0
+reunion,同窓会、再開,0.0,0,0
+reluctant,気乗りしない、渋っている,0.0,0,0
+concerning,～に関する,0.0,0,0
+attire,服装,0.0,0,1
+direct,向ける、管理する、監督する、直接の,0.0,0,0
+extension,内戦、延長,0.0,0,0
+remove,取り外す、取り出す、取り除く,0.0,0,0
+compartment,一区間、部分,0.0,0,0
+direction,方向、道順、指示,0.0,0,0
+activate,使えるようにする、指導させる、作動させる,0.0,0,0
+debit card,デビットカード,0.0,0,0
+immediately,ただちに、即座に,0.0,0,0
+follow,従う、あとについていく、あとで行う、道を行く,0.5,1,1
+instruction,指示、説明,0.0,0,0
+according to,～によると、～に従って、～に応じて,0.0,0,0
+industry,業界、産業,0.0,0,0
+expect,予期する、予定する,0.0,0,0
+rise,上がる、上昇,0.0,0,0
+steadily,着実に,0.0,0,0
+defective,欠陥のある、不良の,0.0,0,0
+securely,しっかりと、安全に,0.0,0,0
+original,もとの、最初の、オリジナルの、独創的な、オリジナル、原本,0.0,0,0
+demonstraition,実演、明示,0.0,0,0
+vacuum cleaner,掃除機,0.0,0,0
+feedback,感想、意見,0.0,0,0
+focus group,フォーカスグループ,0.0,0,1
+keep in mind,留意する、覚えておく,0.0,0,0
+membership,会員資格、会員、会員数,0.0,0,0
+lapse,執行する、途切れる、過失、時の経過,0.0,0,0
+renew,更新する,0.0,0,0
+transfer,転勤させる、移す、移る、転送する、振り込む,0.0,0,0
+regional,地域の,0.0,0,0
+shortly,まもなく、じきに,0.0,0,0
+afterwards,その後,0.0,0,0
+head office,本社,0.0,0,0
+now that,（前はそうでなかったが）今は～なので,0.0,0,0
+proceed,進む,0.0,0,0
+construction,建設、工事,0.0,0,0
+phase,段階,0.0,0,0
+pedestrian,歩行者,0.0,0,0
+stroll,ぶらぶら歩く、散策,0.0,0,0
+plaza,広場,0.0,0,1
+extension,延長、内戦,0.0,0,0
+compatible,互換性がある、相性がいい、共存できる,0.0,0,0
+household,家庭用の、家庭,0.0,0,0
+appliance,電化製品,0.0,0,0
+electronics,電子機器,0.25,1,2
+subsequent,その後の、その次の,0.0,0,0
+reap,得る、刈り取る,0.0,0,0
+benefit,恩恵、特典、福利厚生、～のためになる、～から恩恵を受ける,0.0,0,0
+consumer,消費者,0.0,0,0
+demand,需要、要求する,0.0,0,0
+nutritious,栄養のある,0.5,1,1
+regularly,定期的に、頻繁に,0.0,0,0
+in order to do,～するために,0.0,0,0
+maintain,維持する、主張する,0.0,0,0
+entry,エントリー、入場,0.0,0,0
+evaluate,評価する,0.0,0,0
+capture,とらえる、記録する,0.0,0,0
+theme,テーマ,0.0,0,0
+competition,コンテスト、協議会、競争,0.8,4,4
+obtain,得る、取得する,0.0,0,0
+permit,許可証、許可する,0.0,0,0
+contractor,契約業者,0.0,0,0
+submit,提出する,0.0,0,0
+paperwork,書類、書類作業,0.0,0,0
+authority,当局、権限、権力、権威,0.0,0,0
+organize,取りまとめる、計画する、組織化する、整理する,0.0,0,0
+fund-raising,資金調達のための、慈善の,0.0,0,1
+charitable,慈善の,0.0,0,0
+cause,大義、原因、引き起こす,0.0,0,0
+result,結果、（結果に）終わる,0.0,0,0
+preliminary,予備の、本番前の、暫定の,0.0,0,0
+prototype,試作品、試作機、原型,0.5041666666666667,11,20
+correctly,正しく,0.5,1,1
+oversee,監督する,0.0,0,0
+domestic,国内の、家庭の,0.0,0,0
+investment,投資,0.0,0,0
+permit,許可する、許可証,0.5,1,1
+obstruct,（通路や視界を）ふさぐ、遮る,0.0,0,0
+view,眺め、意見、眺める,0.0,0,0
+token,印,0.0,0,0
+appreciation,感謝,0.0,0,0
+accept,受け入れる,0.0,0,0
+enclose,同封する、囲む,0.0,0,0
+purchase,購入、購入する,0.5,1,1
+real estate,不動産,0.0,0,0
+agent,代理人,0.0,0,0
+negotiate,交渉する,0.0,0,0
+agreeable,合意可能な、快適な、フレンドリーな,0.0,0,0
+property,不動産、物産、物件,0.0,0,0
+primary,主な,0.0,0,0
+duty,任務、職務、関税,0.0,0,0
+liaison,連絡係、連絡,0.0,0,0
+exclusive,独占の、限定の、高級な,0.0,0,1
+high-profile,注目を集める、注目の,0.0,0,0
+critic,評論家、批評家,0.0,0,0
+broadcast,放送する、放送,0.0,0,0
+explore,調査する、探索する、散策する,0.0,0,0
+integral,不可欠の,0.25,1,2
+modern,近代的な、現代的な,0.0,0,0
+accomplished,熟達した、熟練した、スキルの高い,0.0,0,0
+extensive,広範囲に渡る、詳細な、大規模な,0.0,0,1
+surely,必ず,0.0,0,0
+perspective,観点、見方、考え方,0.0,0,0
+household,家庭、家庭用の,0.0,0,0
+gain,得る、増加、利益,0.0,0,0
+insight,洞察、洞察力,0.0,0,0
+spending,消費、支出,0.0,0,0
+retire,退職する,0.0,0,0
+board of directors,取締役,0.0,0,1
+capacity,役割、能力、収容能力,0.0,0,0
+proprietor,オーナー、所有者,0.0,0,0
+widely,広く,0.0,0,0
+regard,みなす、点,0.0,0,0
+impressive,印象的な,0.0,0,0
+clarify,はっきりさせる、明確にする,0.0,0,1
+conduct,実行する、実施する,0.0,0,0
+anonymous,匿名の,0.0,0,0
+surver,アンケート調査、アンケート調査を行う,0.0,0,0
+component,部品,0.0,0,0
+hose,ホース,0.0,0,0
+periodically,定期的に,0.0,0,0
+inspect,検査する,0.0,0,0
+librarian,図書館員、司書,0.0,0,0
+personalized,個人に合わせた、名前入りの,0.0,0,0
+suggestion,提案,0.0,0,0
+tailor,（ニーズなどに）合わせる、調整する、仕立て屋,0.0,0,0
+specific,具体的な、特定の,0.0,0,0
+notable,注目すべき、有名な,0.0,0,0
+feature,特徴、特集、目玉にする、大きく扱う,0.0,0,0
+auditorium,講堂、観客席,0.0,0,1
+distinctive,独自の,0.0,0,0
+appearance,外見、出現、出演,0.5,1,1
+successful,成功した、うまくいく,0.5,1,1
+candidate,候補者,0.0,0,0
+possess,（資質などを）持つ、所有する,0.0,0,0
+excellent,すばらしい,0.0,0,0
+organizational skills,業務処理能力,0.0,0,0
+manner,やり方、方法,0.0,0,0
+remodel,改築する、リフォームする,0.0,0,0
+critical,非常に重要な、批判的な,0.5,1,1
+accurate,正確な,0.0,0,0
+measurement,寸法、財津、測定,0.0,0,0
+develop,（スキルや能力を）伸ばす、開発する,0.25,1,2
+enroll,登録する、入会する、入学する,0.0,0,0
+intensive,集中的な,0.0,0,0
+responsibility,責任、職務,0.0,0,0
+passenger,乗客,0.0,0,0
+verify,確認する、検証する、認証する,0.0,0,0
+departure,出発、逸脱、離脱,0.0,0,1
+in advance,慈善に,,0,0
+abirdged,（本などが）要約された、短縮された,0.0,0,0
+novel,小説,0.0,0,0
+translate,翻訳する,0.0,0,0
+dozens of,多数の、たくさんの,0.0,0,0
+remedy,改善する、治療する、改善策、治療薬,0.0,0,1
+official,幹部、正式な、公式の,0.5,1,1
+vote,投票する、投票、投票数,0.0,0,0
+approve,承認する、賛成する,0.5,1,1
+amendment,改正、修正,0.0,0,1
+legislation,法律、法制化,0.0,0,0
+ingredient,材料、食材,0.0,0,1
+pastry,焼き菓子,0.0,0,0
+premises,敷地,0.0,0,0
+enter,エントリーする、入る、入力する,0.0,0,0
+drawing,抽選会、スケッチ,0.0,0,0
+admission,入場、入会、入場許可,0.0,0,0
+upcoming,今度の、来たる,0.0,0,0
+statistics,統計、統計値、統計学,0.5,1,1
+concentrated,集中的な、濃縮された,0.0,0,0
+urban,都市の、都会の、都会での,0.0,0,0
+performance review,勤務評価、成績評価,0.0,0,0
+diligently,勤勉に,0.0,0,0
+assignment,任務、割当,0.0,0,0
+serve,サービスを提供する、（食事を）出す、役割を果たす,0.0,0,0
+relocate,移転させる、引っ越す、場所を変える,0.0,0,0
+manufacturing,製造、製造業,0.5,1,1
+facility,施設,0.0,0,0
+cantral,中心の、中央の,0.0,0,0
+storage,収納、保管、貯蔵,0.0,0,0
+transparent,透明の,0.0,0,0
+plastic,プラスチック、ビニール,0.0,0,0
+so that,～するように,0.0,0,0
+identify,特定する,0.0,0,0
+content,中身、内容、満足している,0.0,0,0
+reserve,予約する、確保する、蓄え,0.0,0,0
+inquire,問い合わせる、尋ねる,0.0,0,0
+excursion,小旅行,0.0,0,0
+nearby,近くの、近くに,0.0,0,0
+tourist attraction,観光名所,0.0,0,0
+ideal,理想的な,0.0,0,0
+setting,環境,0.0,0,0
+outing,外出、おでかけ,0.0,0,1
+off-side,社外の、現場から離れた、社外で,0.0,0,0
+produce,制作する、生産する、農産物,0.0,0,0
+flyer,チラシ、（飛行機の）乗客,0.0,0,0
+publicize,宣伝する、告知する,0.0,0,0
+publish,出版する、公表する,0.0,0,0
+reveal,明らかにする,0.0,0,0
+existing,既存の、従来の、現存する,0.0,0,0
+upgrade,グレードアップする、改良する,0.0,0,0
+centerpiece,中心に置かれる装飾品、中心になるもの,0.4444444444444445,2,3
+corporate,企業の、法人の,0.0,0,0
+reflect,反映する、映る,0.0,0,0
+consistently,常に、変わらず,0.0,0,0
+contribute,寄付する、貢献する,0.5,1,1
+surplus,余分な、あまり,0.0,0,0
+office supplies,オフィス用品,0.0,0,0
+various,さまざまな,0.0,0,0
+exchange,交換する、交換,0.0,0,0
+rake,熊手、熊手を使う,0.0,0,1
+refund,返金、返金する,0.0,0,0
+reach,連絡を取る、達する、到達する、手をのばす,0.0,0,0
+owing to,～が理由で,0.0,0,0
+largely,主に,0.0,0,0
+favorable,有利な、好意的な,0.0,0,0
+crop,作物、収穫量,0.0,0,0
+yield,収穫量、生み出す,0.0,0,0
+increase,増える、増やす、増加,0.0,0,0
+province,州、省、県,0.0,0,0
+finance,財務、資金を出す,0.0,0,0
+complement,保管する、合う、引き立てる,0.0,0,0
+current,現在の,0.0,0,0
+expertise,専門知識,0.0,0,0
+board,取締役会、掲示板、黒板、乗り込む,0.0,0,0
+shuttle,定期往復便,0.0,0,0
+arrange,手配する、並べる,0.0,0,0
+nominal,わずかな額の、ほんのわずかの、名ばかりの,0.0,0,0
+fee,料金,0.0,0,0
+checkout,レジ、チェックアウト時間、（図書館の）貸出,0.0,0,0
+waive,放棄する、差し控える、適用しない,0.0,0,0
+charge,料金、サービス料、責任、請求する、料金を課す、充電する,0.0,0,0
+front desk,受付,0.0,0,0
+definitely,絶対に、間違いなく,0.0,0,0
+commend,ほめる,0.0,0,0
+superb,素晴らしい,0.0,0,0
+generous,寛大な、気前の良い,0.0,0,0
+delighted,とても喜んでいる,0.0,0,0
+recipient,賞、授与する,0.0,0,0
+award,監視する、モニター,0.0,0,0
+appropriate,適切な、適した,0.0,0,0
+precaution,予防措置、予防策,0.0,0,0
+storm,嵐、暴風雨,0.0,0,0
+approach,近づく、方法、考え方,0.0,0,0
+promote,昇進させる、宣伝する、推進する,0.0,0,0
+division,部門、配分、分担,0.0,0,0
+capable,能力がある,0.0,0,0
+assume,引き受ける、思い込む、仮定する,0.0,0,0
+range,範囲、範囲に渡る,0.0,0,0
+responsibility,職務、責任,0.0,0,0
+cover letter,カバーレター,0.0,0,0
+concise,簡潔な,0.0,0,0
+persuasive,説得力のある,0.0,0,1
+exceed,超える,0.5,1,1
+length,長さ,0.5,1,1
+automobile,自動車,0.0,0,0
+issue,出す、発行する、（雑誌の）号、課題,0.0,0,1
+statement,声明、明細書,0.0,0,0
+address,対処する、話しかける、向ける、宛名を書く、演説、住所,0.0,0,0
+concern,懸念、心配、関心事、心配させる、～に関する,0.0,0,0
+regarding,～に関する,0.0,0,1
+fuel,燃料,0.0,0,0
+efficiency,効率、効率性,0.0,0,0
+due to,～が理由で,0.0,0,0
+owing to,～が理由で,0.0,0,0
+despite,～にもかかわらず,0.0,0,0
+in spite of,～にもかかわらず,0.0,0,0
+notwithstanding,～にもかかわらず,0.0,0,0
+given,～を考慮に入れると,0.0,0,0
+in light of,～を考慮に入れると,0.0,0,0
+in the event of,～の場合,0.0,0,0
+in addition to,～に加えて,0.0,0,0
+except for,～を除いて,0.0,0,0
+regardless of,～とは無関係に,0.0,0,0
+instead of,～の代わりに,0.0,0,0
+whereas,一方で,0.0,0,0
+whether,～であろうと、～かどうか,0.0,0,0
+as soon as,～するとすぐに,0.0,0,0
+once,いったん～したら,0.0,0,0
+unless,～しない限り,0.0,0,0
+now that,今はもう～なので,0.0,0,0
+so that,～するように,0.0,0,0
+in order that,～するように,0.0,0,0
+although,～にもかかわらず,0.0,0,0
+though,～にもかかわらず,0.0,0,0
+even though,～にもかかわらず,0.0,0,0
+even if,たとえ～でも,0.5,1,1
+provided that,～するという条件でのみ,0.0,0,0
+as long as,～する限り,0.0,0,0
+in case,～するといけないので,0.0,0,1
+given that,～を考慮すると,0.0,0,0
+in the event that,～した場合,0.0,0,0
+insofar as,～する限りにおいて,0.0,0,0
+inasmuch as,～する限りにおいて、～するので,0.0,0,1
+therefore,したがって,0.0,0,0
+however,しかしながら,0.0,0,0
+nevertheless,それにもかかわらず,0.0,0,0
+moreover,その上,0.0,0,0
+furthermore,さらに,0.0,0,0
+consequently,結果として,0.0,0,1
+thereby,そうすることで,0.0,0,0
+thus,このようにして,0.0,0,0
+meanwhile,その間,0.0,0,0
+as with,～と同様に,0.0,0,0
+adapt,適応する、適応させる,0.0,0,0
+occasionally,時々、たまに,0.0,0,0
+supplement,補う、付録、栄養補助食品,0.0,0,0
+income,収入,0.5,1,1
+specialized,専門の,0.0,0,0
+detect,検知する、探知する、発見する,0.0,0,0
+suspicious,疑わしい、怪しい,0.0,0,0
+transaction,取引,0.0,0,1
+tenant,貸借人、入居者,0.0,0,0
+provide,提供する,0.0,0,0
+landlord,家主、地主,0.0,0,0
+duplicate,複製の、２重の、複製、複製を取る,0.5,1,1
+upon request,要請があれば、リクエストに応じて,0.0,0,0
+nonprofit,非営利団体、非営利の,0.0,0,0
+educational,教育の、教育上の,0.0,0,0
+institution,機関、団体、しきたり,0.0,0,0
+exempt,免除された、免除する,0.0,0,0
+certain,特定の、ある決まった、確かな,0.0,0,0
+tax,税金,0.0,0,0
+solution,解決策、溶液,0.0,0,0
+issue,課題、（雑誌の）号、出す、発行する,0.5,1,1
+experienced,経験豊富な,0.0,0,0
+novice,初心者,0.0,0,0
+alike,同様に、よく似た,0.0,0,0
+custodian,管理人、守衛,0.0,0,0
+responsible,責任がある、担当している,0.0,0,0
+assign,割り当てる、任命する,0.0,0,0
+functional,機能的な、機能を果たせる,0.0,0,0
+proceeds,収益,0.0,0,0
+restore,修理する、復旧させる、取り戻す,0.5,1,1
+mural,壁画,0.0,0,0
+considerate,配慮して、思いやりのある,0.0,0,1
+spectator,観客、見物客,0.0,0,0
+refrain,差し控える,0.0,0,0
+directory,名簿、案内板,0.0,0,0
+consist,～から成る,0.0,0,0
+arrange,並べる、手配する,0.0,0,0
+order,順番、注文、命令、注文する、命令する,0.0,0,0
+promotion,昇進、販売促進、促進,0.0,0,0
+substantial,大幅な、かなりの、頑丈な,0.0,0,0
+raise,昇給、（お金を）集める、上げる、高める,0.0,0,0
+considerably,かなり,0.0,0,0
+proofead,校正する,0.0,0,0
+manuscript,（書物の）原稿,0.0,0,0
+publisher,出版社,0.0,0,0
+be happy to do,喜んで～する,0.0,0,0
+contrary,正反対の、正反対,0.5,1,1
+face,直面する、（～の方向を）向く,0.0,0,0
+disappointing,期待はずれの、がっかりさせるような,0.0,0,0
+outlook,見通し、モノの見方,0.0,0,0
+remainder,残り,0.0,0,0
+committee,委員会,0.0,0,0
+simplify,簡素化する、単純にする,0.0,0,0
+complicated,複雑な,0.0,0,0
+structure,構造、建造物,0.0,0,0
+workshop,研修会、講習会、セミナー、作業場,0.0,0,0
+typically,通常、典型的に,0.0,0,0
+modify,変更する、修正する,0.0,0,0
+fit,合う、（スペースに）入る,0.0,0,0
+participant,参加者,0.0,0,0
+prominently,目立って、傑出して,0.0,0,0
+display,展示する、展示,0.0,0,0
+promotional,宣伝用の、販売促進用の、販促の,0.0,0,0
+trade show,見本市,0.0,0,0
+investigate,調査する,0.0,0,0
+incident,出来事、事件、事故,0.5,1,1
+necessary,必要な,0.0,0,0
+prevent,防ぐ、拒む,0.0,0,1
+recur,再発する,0.0,0,0
+should you have any questions,もしご質問があれば,0.5,1,1
+procedure,手順、手続き、流れ,0.0,0,0
+hesitate,ためらう,0.0,0,0
+surpervisor,上司、責任者,0.0,0,1
+ongoing,進行中の、続いている,,0,0
+renovation,改装,0.5,1,1
+production,生産、制作・作品,0.0,0,0
+resume,再開する,0.0,0,0
+commute,通勤、通学、通勤する、通学する,0.5,1,1
+time off,（会社や学校の）休み,0.0,0,0
+rewarding,やりがいのある、実りの多い,0.0,0,0
+exactly,そのとおり、正確に、まさに、ちょうど,0.0,0,0
+browse,見て回る、パラパラと眺める,0.0,0,0
+potted plant,鉢植え,0.0,0,0
+on display,展示されて,0.0,0,0
+canopy,天蓋,0.0,0,0
+mission,使命、ミッション,0.0,0,0
+accelerate,加速させる、拍車をかける,0.0,0,0
+adoption,採用,0.0,0,0
+electric,電気の,0.0,0,0
+vehice,乗り物、車両,0.0,0,1
+globally,全世界に、地球規模で,0.0,0,0
+solicit,求める、懇願する,0.0,0,0
+bid,入札、入札する,0.0,0,0
+renovate,改装する,0.0,0,0
+spectacular,壮観な、眼を見張るほどの,0.0,0,0
+scenic,長めが良い、景色の良い,0.0,0,1
+destination,目的地、行き先,0.0,0,0
+wing,棟,0.0,0,0
+boast,誇る,0.0,0,0
+ample,十分な、ありあまるほどの,0.0,0,0
+on-site,その場の、社内の、その場で,0.0,0,0
+connection,接続、繋がり、関連、乗り継ぎ,0.0,0,0
+laundry,選択,0.0,0,0
+aircraft,航空機,0.0,0,0
+fail to do,～し損なう,0.0,0,0
+promptly,迅速に、ただちに、きっかりに,0.0,0,0
+notify,（人に）知らせる,0.0,0,0
+potential,潜在的な、見込みがある、可能性,0.0,0,0
+series,シリーズ,0.0,0,0
+suitable,ふさわしい、適切な,0.0,0,0
+those,人々,0.0,0,0
+focus,～に集中させる、重点を置く、集中、焦点,0.0,0,0
+solely,唯一、単独で、完全に,0.5,1,1
+coinside,同時に起こる,0.0,0,0
+release,発売、公表する、発売する,0.0,0,0
+tour,ツアーする、見学する、旅行する、ツアー、見学、旅行,0.0,0,0
+nationwide,全国的に、全国的な,0.0,0,0
+observe,観察する、気づく、順守する,0.0,0,0
+wildlife,野生動物,0.0,0,0
+vicinity,周辺,0.0,0,0
+regret,残念に思う、後悔する、後悔,0.0,0,0
+inform,（人に）知らせる、影響を与える,0.0,0,0
+unable,（～することが）できない,0.0,0,0
+accommodate,（要求などを）満たす、収容する,0.0,0,0
+dietary,食事の,0.0,0,0
+comparable,同等の、匹敵する、類似の,0.0,0,0
+relatively,比較的、他と比べて,0.0,0,0
+power,電力、動力、力,0.0,0,0
+comparison,比較,0.0,0,0
+treadmill,ランニングマシン,0.0,0,0
+allow,可能にする、許す,0.0,0,0
+access,アクセスする、アクセス,0.5,1,1
+track,追跡する、追跡、線路、走路,0.0,0,0
+compare,比べる,0.0,0,0
+apply,応募する、申請する、あてはまる、適用する、塗る,0.0,0,0
+accounting,経理、会計,0.0,0,0
+advertise,宣伝する,0.0,0,0
+edition,（本などの）版,0.0,0,0
+postal,郵便の,0.0,0,0
+clerk,事務員、店員、ホテルの受付,0.0,0,1
+calculate,計算する,0.0,0,0
+affix,貼付する,0.0,0,0
+correct,正しい、正確な、修正する,0.0,0,0
+postage,郵便料金,0.0,0,0
+package,小包、荷物、パッケージ,0.5,1,1
+failure,失敗、不具合,0.5,1,1
+adhere,忠実に従う、接着する,0.0,0,1
+following,以下の、次の、～に続いて,0.0,0,0
+guidelines,指針、ガイドライン,0.0,0,0
+result,（結果に）終わる、結果,0.0,0,0
+disciplinary action,懲戒処分,0.0,0,1
+initiative,主体性、新たな取組、主導権,0.0,0,0
+creativity,創造性,0.0,0,0
+solve,解決する,0.0,0,0
+pursue,追求する、追い詰める,0.0,0,0
+continuous,絶え間のない、途切れない,0.0,0,0
+improvement,改善,0.0,0,0
+install,設置する、導入する、インストールする,0.0,0,0
+measure,対策、手段、測定する、評価する,0.0,0,0
+municipal,市の、市営の,0.0,0,0
+enviromentally friendly,環境に優しい,0.0,0,0
+devise,考案する、立案する,0.0,0,0
+implement,実行する、実施する,0.0,0,1
+strategy,戦略,0.0,0,0
+acknowledge,認める、知らせる、感謝する,0.0,0,0
+premier,最高の、第一位の,0.0,0,0
+purveyor,販売業者、供給業者,0.0,0,0
+adjacent,隣接した,0.0,0,0
+neighborhood,地域、住所,0.0,0,0
+spacious,広々した、ゆったりした,0.0,0,0
+separate,別れた、別々の,0.0,0,0
+belongings,所有物、所持品,0.0,0,1
+botanical,植物の、植物学の,0.0,0,0
+store,保管する、保存する、店,0.0,0,0
+up to,最長、最大,0.0,0,0
+discard,捨てる,0.5,1,1
+resolve,解決する,0.0,0,0
+apologize,おわびする,0.0,0,0
+interruption,中断,0.5,1,1
+aspiring,～志望の、～になろうとする,0.0,0,0
+astronaut,宇宙飛行士,0.0,0,0
+undergo,経験する、受ける,0.0,0,0
+rigorous,厳格な、厳密な,0.0,0,0
+satisfaction,満足,0.0,0,0
+priority,優先事項、優先順位,0.0,0,0
+committed,熱心に取り組む、献身的な,0.0,0,0
+closely,密に、注意深く,0.0,0,0
+editorial,編集の、社説,0.0,0,0
+oversight,見落とし、手落ち、監視,0.0,0,0
+article,記事、モノ,0.0,0,0
+contain,含む、中に入っている,0.0,0,0
+outdated,古い、時代遅れの,0.0,0,0
+willing,～することを嫌がらない、～する気がある,0.0,0,0
+embrace,積極的に受け入れる、快諾する,0.0,0,0
+state-of-the-art,最先端の、最新式の,0.0,0,0
+support,支援、指示、支援する、支持する,0.0,0,0
+conservation,節約、環境保護,0.0,0,0
+deliberation,熟考,0.0,0,0
+panel,グループ、羽目板,0.0,0,0
+expart,専門家、専門的な,0.0,0,0
+photography,写真撮影,0.0,0,0
+latest,最新の,0.0,0,0
+be supposed to do,～することになっている,0.0,0,1
+overcome,克服する、乗り越える,0.5,1,1
+shortcoming,欠点、短所,0.0,0,0
+predecessor,前機種、前任者,0.0,0,0
+commission,委託する、委任する、委員会、歩合,0.0,0,0
+conclude,結論を出す、終わる,0.0,0,0
+financially,財政的に、金銭的に,0.0,0,0
+feasible,実現可能な,0.0,0,0
+sensitive,高感度の、取り扱いに注意を要する、デリケートな,0.5,1,1
+desire,欲求、願望、強く望む,0.0,0,0
+reliable,信頼できる、頼りになる,0.0,0,0
+timely,タイミングの良い、タイムリーな,0.0,0,0
+coverage,報道、（保険の）補償,0.0,0,0
+fund-raiser,募金イベント、資金集めのイベント,0.0,0,0
+amaizing,驚くべき、驚くほどに素晴らしい、すごい,0.0,0,0
+combined,共同の、連合の,0.0,0,0
+donation,寄付,0.0,0,0
+thrilld,とてもわくわくして、とても興奮して,0.0,0,0
+opportunity,機会、チャンス,0.0,0,0
+collaborate,協力する,0.0,0,0
+achieve,達成する,0.0,0,0
+objective,目標、目的、客観的な,0.0,0,0
+caution,注意、警告、注意を促す、警告する,0.0,0,0
+roadway,車道,0.0,0,0
+extremely,極めて、非常に,0.0,0,0
+slippery,すべりやすい,0.0,0,0
+deteriorate,悪化する,0.0,0,0
+snowfall,降雪,0.0,0,0
+proven,確かな,0.0,0,1
+meet,満たす、間に合う、会う,0.0,0,0
+ambitious,意欲的な、野心的な,0.0,0,0
+quota,ノルマ、割り当て,0.0,0,0
+valuable,貴重な,0.0,0,0
+asset,税さん、資産,0.0,0,0
+stapler,ホッチキス,0.0,0,0
+order,注文する、命令する、注文、命令、順番,0.0,0,0
+out of stock,在庫切れ,0.0,0,0
+substitute,～を代わりに用いる、代わりを務める人、代用品,0.0,0,0
+similar,似ている,0.0,0,0
+refund,返金する、返金,0.0,0,0
+plenty of,十分な、たくさんの,0.0,0,0
+individual,個別の、個人の、個人,0.0,0,0
+attention,注目、注意,0.0,0,0
+enrollment,登録者数、入会、登録,0.0,0,0
+limited,限られた,0.0,0,0
+"on a first-come, first-served basis",先着順で,0.0,0,1
+effective,～付で有効な、効果的な,0.0,0,0
+entire,全部の、全体の,0.0,0,0
+cafeteria,社員食堂,0.0,0,0
+deduct,控除する,0.0,0,0
+paycheck,給与、給与小切手,0.0,0,0
+rate,料金、割合、評価する,0.0,0,0
+quote,価格を提示する、引用する、見積もり、提示価格、引用,0.0,0,0
+based on,～に基づく,0.0,0,0
+occupancy,占有、占有人数,0.0,0,0
+unless,～しない限り,0.0,0,0
+otherwise,別のやり方で、それ以外には、さもなければ,0.0,0,0
+specify,明記する、明確に述べる,0.0,0,0
+ease,容易さ、たやすさ、やわらげる、容易にする,0.0,0,0
+respondent,回答者,0.0,0,0
+rate,評価する、料金、割合,0.0,0,0
+blender,ミキサー,0.0,0,0
+either X or Y,XかYのどちらか,0.0,0,0
+lengthy,長期にわたる、冗長な,0.0,0,0
+search,創作、検索、探す、検索する,0.0,0,0
+employment,雇用,0.0,0,0
+land,（仕事や契約を）得る、着陸する、土地,0.0,0,0
+temporary,臨時の、一時的な,0.0,0,0
+janitor,清掃員、用務員,0.0,0,0
+documentary,記録映画,0.0,0,0
+profile,プロフィールを紹介する、プロフィール,0.0,0,0
+entrepreneur,起業家,0.0,0,0
+hypothesis,仮説,0.0,0,0
+privileged,光栄な,0.0,0,0
+talented,才能ある,0.0,0,0
+dedicated,献身的な、専用の、特化した,0.0,0,0
+colleague,同僚,0.0,0,0
+barely,かろうじて、なんとか,0.0,0,0
+legible,（筆跡などが）判読できる、読みやすい,0.0,0,0
+appear,～のように思える、現れる、掲載される,0.5,1,1
+address,宛名を書く、対処する、話しかける、向ける、演説、住所,0.0,0,0
+circumstance,状況,0.0,0,0
+liable,法的責任がある,0.0,0,0
+furniture,家具,0.0,0,0
+cause,引き起こす、原因、大義,0.0,0,0
+transit,輸送,0.0,0,0
+certificate,認定証、修了証,0.0,0,0
+serve,役割を果たす、サービスを提供する,0.0,0,0
+proof,証拠、証明,0.0,0,0
+complete,完了する、記入する、完了した、全部揃った,0.0,0,0
+tutorial,指導書、個別指導,0.0,0,0
+certified,有資格の、後任の,0.0,0,0
+note,注意する、述べる、メモ、注記,0.0,0,0
+voucher,引換券,0.0,0,0
+vaild,有効な,0.0,0,0
+redeemable,（現金や商品と）交換可能な,0.0,0,0
+applicant,応募者,0.0,0,0
+proficiency,熟達、スキルの高さ、高い能力,0.0,0,0
+ability,能力,0.5,1,1
+independently,単独で、独立して,0.0,0,0
+description,説明、記述、描写,0.0,0,0
+include,含む,0.0,0,0
+a couple of,いくつかの、２・３の,0.0,0,0
+summarize,要約する,0.0,0,0
+entail,必要とする、～を伴う,0.0,0,0
+tenure,在職期間,0.0,0,0
+expand,拡大する、進出する,0.0,0,0
+outreach,支援活動、福祉活動,0.0,0,0
+full-time,常勤の、正社員の,0.0,0,0
+faculty,（大学の）教員、学部,0.0,0,0
+eligible,資格がある,0.0,0,0
+tuition,授業料,0.0,0,0
+assistance,補助、支援、援助,0.0,0,0
+intact,傷がない,0.0,0,0
+including,～を含む,0.0,0,0
+pottery,陶器、瀬戸物,0.0,0,0
+glassware,ガラス製品,0.0,0,0
+fragile,壊れやすい、はかない,0.0,0,0
+unfair,不公正な、不公平な,0.0,0,0
+commercial,商業の、商業的な、CM,0.0,0,0
+practice,ならわし、修行、練習、練習する、開業する、実践する,0.0,0,0
+misleading,誤解を招く恐れのある,0.0,0,0
+advertising,広告、宣伝,0.0,0,0
+prohibit,禁止する,0.0,0,1
+directive,命令,0.0,0,0
+illustrate,説明する,0.0,0,0
+mentoring,メンター制度,0.0,0,0
+improve,改善する、改良する,0.0,0,0
+productivity,生産性,0.0,0,0
+workplace,職場,0.5,1,1
+ensure,保証する、請け負う,0.0,0,0
+prescription,処方箋,0.5,1,1
+electronically,電子的に,0.0,0,0
+physician,医師,0.5,1,1
+reach,到達する、達する、連絡を取る、手をのばす,0.0,0,0
+pharmacy,薬局,0.0,0,0
+document,書類、記録する,0.0,0,0
+confidential,機密の、秘密の,0.0,0,0
+disclose,開示する,0.0,0,0
+explicit,明確な、明白な,0.0,0,0
+permission,許可,0.0,0,0
+search,探す、検索する、創作、検索,0.0,0,0
+venue,会場,0.0,0,0
+prepare,準備する、用意する、支度する,0.0,0,0
+agenda,予定表,0.0,0,0
+facilitate,促進する、容易にする,0.0,0,0
+luxury,高級な、高級、ぜいたく,0.0,0,0
+situated,位置している,0.0,0,0
+picturesque,絵のように美しい,0.0,0,0
+accessible,到達可能な、利用可能な,0.0,0,0
+surprisingly,驚いたことに、驚くほど,0.0,0,0
+controversial,物議を醸すような,0.0,0,0
+complex,集合住宅、複合施設、複雑な,0.0,0,0
+unanimous,満場一致の,0.0,0,0
+approval,承認,0.0,0,0
+overview,概略、概況,0.0,0,0
+policy,規程、方針,0.0,0,0
+regulation,規制、規則,0.0,0,0
+relevant,関連した,0.0,0,0
+former,前者、前の、かつての,0.0,0,0
+house,所蔵する、保有する、所有する、家,0.0,0,0
+impressionist,印象は,0.25,1,2
+latter,後者、後半の,0.0,0,0
+mainly,主に,0.0,0,0
+exhibit,展示する、展示物、展示会,0.0,0,0
+adress,演説、住所、対処する、話しかける、向ける、宛名を書く,0.0,0,0
+governor,知事,0.0,0,0
+outline,概要を説明する、概要,0.0,0,0
+charge,料金を課す、請求する、充電する、料金、責任,0.0,0,0
+toll,通行料,0.0,0,0
+congested,渋滞した,0.0,0,0
+representative,担当者、代表者,0.0,0,0
+patiently,根気よく、我慢強く,0.0,0,0
+handle,対処する、扱う、手で扱う、撮って,0.0,0,0
+complaint,苦情、クレーム,0.0,0,0
+discreetly,分別を持って、思慮深く,0.0,0,0
+foremost,最高の、トップの,0.0,0,0
+advocate,提唱者、維持者、提唱する,0.0,0,0
+sustainable,持続可能な、環境に優しい,0.0,0,0
+agriculture,農業,0.0,0,0
+excerpt,抜粋、引用,0.0,0,0
+summary,要約,0.0,0,0
+symposium,討論会,0.0,0,0
+medical,医療の,0.0,0,0
+devise,機器、装置,0.0,0,0
+publish,公表する、出版する,0.0,0,0
+election,選挙,0.0,0,0
+predict,予測する,0.0,0,0
+turnout,投票者数、参加者数、来場者数,0.0,0,0
+approximately,おおよそ、約,0.0,0,0
+commence,始まる、始める,0.0,0,0
+apprentice,見習い、実習生,0.0,0,0
+carpenter,大工,0.0,0,0
+eventually,最終的には、結局,0.0,0,0
+found,設立する、創立する,0.0,0,0
+lumber,製材、材木,0.0,0,0
+sophisticated,高性能の、洗練された,0.0,0,0
+streamline,合理化する、簡略化する,0.0,0,0
+payroll,給与管理、給与総額、資金大腸,0.0,0,1
+process,プロセス、過程、処理、処理する,0.0,0,0
+foundation,設立、基金、基礎,0.0,0,0
+array,大量、多数,0.0,0,0
+periodical,定期刊行物,0.0,0,0
+journal,専門誌,0.0,0,0
+cultural,文化的な,0.0,0,0
+reimburse,払い戻す,0.0,0,0
+expense,費用、経費,0.0,0,1
+incur,（罰金等を）被る、負う,0.0,0,0
+retreat,研修旅行,0.0,0,0
+eliminate,排除する、取り除く,0.5,1,1
+distraction,集中の妨げになるもの、気を反らせるもの、気晴らし,0.0,0,0
+create,想像する、作り出す,0.0,0,0
+atmosphere,雰囲気,0.0,0,0
+discuss,話し合う、話す,0.0,0,0
+common,共通の、一般的な、よくある、普通の,0.0,0,0
+exemplary,模範的な,0.0,0,0
+inspiring,（人を）やる気にさせるような、鼓舞するような、触発するような,0.0,0,0
+nominate,推薦する、ノミネートする,0.0,0,0
+accolade,栄誉、称賛,0.0,0,0
+packaging,パッケージ、梱包,0.0,0,0
+revitalize,復活させる、再活性化する、復興する,0.0,0,0
+stagnant,停滞した,0.0,0,0
+remark,コメントする、言葉、コメント、意見,0.0,0,0
+executive,重役、重役の、高級な,0.0,0,0
+assorted,詰め合わせの,0.0,0,0
+transform,（姿、性質などを）一変させる,0.6666666666666667,2,2
+ordinary,普通の、通常の,0.0,0,0
+stunning,驚くほど美しい、驚くほど魅力的な,0.0,0,0
+deviate,それる,0.0,0,1
+suggest,提案する、示唆する,0.5,1,1
+app,アプリ,0.5,1,1
+alert,知らせる、警告する、警戒した、警報,0.0,0,0
+notification,通知,0.0,0,0
+deposit,保証金、頭金、敷金、預け入れる,0.0,0,1
+retain,保管する、保持する、維持する,0.0,0,0
+duration,継続期間,0.0,0,0
+lease,賃貸借、賃貸借する,0.0,0,0
+term,期間、観点、条件,0.0,0,0
+utility,（ガスなどの）公共サービス,0.0,0,0
+warn,警告する,0.0,0,0
+resident,住民、住人,0.0,0,0
+extended,長期の、長時間の,0.0,0,0
+outage,機能停止期間、供給停止期間,0.0,0,0
+grocery,食品雑貨,0.0,0,0
+benefit,～から恩恵を受ける、～のためになる、特典、福利厚生、恩恵,0.0,0,0
+compost,～をたい肥にする,0.0,0,0
+food waste,食品廃棄物,0.0,0,0
+dispose,処分する,0.0,0,0
+abundant,十分な、豊富な,0.0,0,0
+evidence,証拠、証明,0.0,0,0
+role model,模範となる人、お手本となる人,0.0,0,0
+crucial,非常に重要な,0.0,0,1
+coworker,同僚,0.0,0,0
+motivate,やる気にさせる,0.0,0,0
+organization,組織、団体、会社,0.0,0,0
+furnished,家具付きの,0.0,0,0
+equip,備え付ける、装備する,0.0,0,0
+amenity,生活を便利にするもの,0.0,0,0
+comfortable,快適な、楽な、自身がある,0.0,0,0
+enjoyable,楽しい,0.0,0,1
+a course of action,一連の講堂,0.0,0,0
+a number of,いくつかの,0.0,0,0
+a wealth of,豊富な,0.0,0,0
+above all,とりわけ、なによりも,0.0,0,0
+after all,結局,0.0,0,0
+ahead of schedule,予定より早く,0.0,0,0
+along with,～と一緒に,0.0,0,0
+among other things,とりわけ、何よりも,0.0,0,0
+as a whole,全体として,0.5,1,1
+as early as,早ければ,0.0,0,0
+as far as,～する範囲では,0.0,0,0
+as of,～以降、～付で,0.0,0,0
+aside from,～は別として,0.0,0,0
+at all times,常時,0.0,0,0
+as least,少なくとも,0.0,0,0
+at the last,遅くとも,0.0,0,2
+at your earliest convenience,あなたの都合がつき次第,0.0,0,1
+be credited with,～の功績があるとされる,0.0,0,0
+be supposed to do,～することになっている,0.0,0,0
+behind schedule,予定より遅れて,0.0,0,0
+box office,チケット売り場,0.0,0,0
+bulk order,大量注文、大口発注,0.0,0,0
+by a wide margin,大差で,0.0,0,1
+by any chance,ひょっとして,0.0,0,0
+by means of,～という手段で,0.0,0,0
+can you do me a favor?,お願いがあるのですが,0.0,0,0
+dome up with,～を思いつく,0.0,0,0
+cordially invite,謹んで招待する,0.0,0,0
+deal with,～を扱う,0.0,0,0
+depend on,～次第だ、～に頼る,0.0,0,0
+drop off,～を預ける,0.0,0,0
+Either is fine.,どちらでもかまいません。,0.0,0,0
+field trip,郊外学習、現地調査,inf,14,0
+figure out,理解する,0.0,0,0
+fill out,記入する,0.0,0,0
+for futher information,詳しくは,0.0,0,0
+for instance,たとえば,0.0,0,0
+get in touch with,連絡を取る,0.0,0,0
+has/have yet to do,まだ～してない,0.0,0,0
+in a rush,大急ぎで,0.0,0,0
+in a timely manner,タイミングよく,0.0,0,0
+in accordance with,～に従って,0.0,0,1
+in an effort to do,～しようとして,0.0,0,0
+in charge of,～を担当している,0.0,0,0
+in fact,実際,0.0,0,0
+in for a treat,もうすぐ楽しいことがある,0.0,0,0
+in keeping with,～に合わせて,0.0,0,1
+in person,直接、直に,0.0,0,0
+in progress,進行中,0.0,0,0
+in short,要するに,0.5,1,1
+in the long run,長期的には,0.0,0,0
+in the meantime,その間、それまでの間,0.0,0,0
+in the process of,～の最中,0.0,0,0
+in time for,～に間に合って,0.0,0,0
+in writing,書面で,0.0,0,0
+instead of,～の代わりに,0.0,0,0
+it has come to our attention that,～が我々の知るところとなった,0.0,0,0
+job fair,就職説明会,0.0,0,0
+keep in mind that,～を念頭に置く,0.0,0,0
+keep up with,～に追いつく,0.0,0,0
+live up to,（期待などに）応える,0.0,0,1
+look no further than,～以外を見る必要はない,0.0,0,1
+look to do,～しようとする,0.0,0,0
+lost and found,遺失物取扱所,0.0,0,1
+make room for,～のためにスペースを開ける,0.0,0,0
+make sense,もっともだ,0.0,0,0
+narrow down,候補を絞り込む,0.0,0,0
+no later than,遅くとも,0.0,0,0
+no longer,もはや～ない,0.5,1,1
+not only X but Y as well,XだけでなくYも,0.5,1,1
+null and void,無効の,0.0,0,0
+on a budget,限られた予算内で,0.0,0,0
+"on a first-come, first-served basis",先着順で,0.0,0,1
+on average,平均で,0.0,0,0
+on behalf of,～を代表して,0.0,0,0
+on one's way to,～への途中に,0.0,0,0
+on such short notice,とても急な知らせで,0.0,0,0
+on time,時間通りに,0.0,0,0
+open to the public,一般公開されている,0.0,0,0
+out of order,故障中,0.0,0,0
+out of paper,紙切れ,0.0,0,0
+out of place,場違いの,0.0,0,0
+out of print,絶版の,0.0,0,0
+out of service,運転休止中,0.0,0,0
+out of shape,体調が万全ではない,0.0,0,0
+out of stock,在庫切れ,0.0,0,0
+out of town,町を離れて,0.5,1,1
+parking lot,駐車場,0.0,0,0
+pass up the opportunity,チャンスを見送る,0.0,0,0
+pay off,実を結ぶ、完済する,0.0,0,0
+plenty of,たくさんの、十分な,0.0,0,0
+press conference,記者会見,0.0,0,0
+press release,報道機関向け発表,0.5,1,1
+quite a few,かなりの数の,0.0,0,1
+rather than,～よりむしろ,0.0,0,0
+regardless of,～とは無関係に,0.5,1,1
+report to work,出勤する,0.0,0,0
+right away,ただちに,0.0,0,0
+room and board,部屋代と食事代,0.0,0,0
+round-trip ticket,往復のチケット,0.0,0,0
+run into,～と出くわす,0.0,0,0
+set aside,～を取っておく,0.0,0,0
+should you have any questions,もしご質問があれば,0.0,0,0
+spare no expense,出費を惜しまない,0.0,0,0
+speak highly of,～をほめる,0.0,0,1
+stuck in traffic,渋滞にハマって,0.0,0,0
+take advantage of,～を利用する,0.0,0,0
+take effect,有効に成る,0.0,0,0
+take place,起こる、開催される,0.0,0,0
+thanks to,～のおかげで,0.0,0,0
+to whom it may concern,ご担当者様,0.0,0,0
+trade show,見本市,0.0,0,0
+until further notice,別途通知があるまでの間,0.0,0,0
+upon request,リクエストがあり次第,0.0,0,1
+wear and tear,摩耗,0.0,0,0
+well in advance,十分前もって,0.0,0,0
+when it comes to,～に関して言えば,0.0,0,0
+with the exception of,～を例外として,0.0,0,0
+within walking distance,徒歩圏内,0.0,0,0
+work ethic,勤労意欲,0.0,0,0
+mayor,町長、市長,0.0,0,0
+stress,強調する、ストレス、強調,0.0,0,0
+jeopardy,危機、危険,0.0,0,0
+federal,連邦政府の,0.0,0,0
+funding,資金提供、財政支援,0.0,0,0
+withdraw,撤収する、（金を）おろす、（支援などを）取り下げる,0.0,0,0
+conform,（規則などに）会う、一致する、従う,0.0,0,1
+stringent,非常に厳しい,0.0,0,0
+standard,基準、標準の,0.0,0,0
+compensate,補償する,0.0,0,0
+comoetitive,他に負けない、競争の激しい,0.0,0,0
+benefit,福利厚生、特典、恩恵、～のためになる、～から恩恵を受ける,0.0,0,0
+coverage,補償、報道,0.0,0,0
+allowance,手当、小遣い、許容量,0.0,0,0
+delegation,代表団、委譲,0.0,0,0
+participate,参加する,0.0,0,0
+competition,競技会、コンテスト、競争,0.5408653846153846,15,26
+accompany,同行する、ついてくる、伴奏する,0.0,0,0
+personnel,職員、従業員、人事部,0.0,0,0
+attorney,弁護士,0.0,0,0
+specialize,専門とする,0.0,0,0
+patent,特許、特許を取る,0.0,0,0
+trademark,商標,0.0,0,0
+copyright,著作権,0.0,0,0
+consolidate,統合する,0.0,0,0
+subsidiary,子会社,0.0,0,0
+bolster,強化する、補強する、テコ入れする,0.0,0,0
+competitiveness,競争力,0.0,0,0
+parton,利用者、愛用者,0.0,0,0
+performance,公演、業績、成績、仕事ぶり、性能,0.0,0,0
+intermission,休憩時間,0.25,1,2
+discretion,裁量、決定権,0.0,0,1
+once,いったん～したら、一度、かつて,0.0,0,0
+remaining,残りの,0.0,0,0
+inventory,在庫,0.0,0,0
+deplete,使い果たす、激減させる,0.0,0,0
+lawn mower,芝刈り機,0.0,0,0
+discontinued,（製造、販売が）終了した,0.0,0,0
+unveil,披露する、公表する,0.0,0,0
+commemorative,記念の,0.0,0,0
+plaque,盾,0.0,0,0
+mark,記念する、印をつける、記す、的、足跡、記録,0.5,1,1
+occasion,特別な行事、（なにかが起こる）時、好機,0.0,0,0
+establishment,施設、設立、確立,0.0,0,1
+serve,（食事を）出す、サービスを提供する、役割を果たす,0.0,0,0
+authentic,本物の,0.0,0,0
+cuisine,料理,0.0,0,1
+moderate,適度の、ほどほどの,0.0,0,0
+landmark,名所、目印、重要な出来事,0.0,0,0
+demolish,解体する、取り壊す,0.0,0,0
+despite,～にも関わらず,0.0,0,0
+vigorous,精力的な、活気のある,0.0,0,0
+save,保存する、節約する、取っておく,0.0,0,0
+souvenir,土産物,0.0,0,0
+dedicated,特化した、献身的な、専用の,0.0,0,0
+exclusively,限定で、独占的に,0.0,0,0
+related,関連した,0.0,0,0
+definitive,決定版の、最終的な,0.0,0,0
+innovation,技術革新、イノベーション,0.0,0,0
+comprehensive,統合的な、包括的な,0.0,0,0
+aspect,面、局面,0.0,0,0
+completion,完了、終了,0.0,0,1
+merger,合併、統合,0.0,0,0
+dominant,支配的な、圧倒的な,0.0,0,0
+supplier,供給業者、納入業者,0.0,0,0
+deliver,（演説などを）行う、配達する、届ける,0.0,0,0
+keynote,基調となる、基調,0.0,0,0
+anniversary,～周年、記念日,0.0,0,0
+gala,祝祭、祭り,0.0,0,1
+warranty,保証,0.0,0,0
+cover,補償する、覆う、報道する、カバー、表紙,0.0,0,0
+wear and tear,摩耗,0.0,0,0
+routine,所定の、日常の、日常的な作業、日課,0.0,0,0
+maintenance,保守点検、維持管理,0.0,0,0
+improper,不適切な,0.0,0,0
+due to,～が理由で,0.0,0,0
+budget,予算、予算に計上する、格安の,0.0,0,0
+constraint,制約,0.9333333333333332,14,14
+afford,～する、余裕がある、提供する,0.0,0,0
+allocate,割り当てる,0.0,0,0
+resource,資源,0.0,0,0
+compliance,順守,0.0,0,0
+term,条件、観点、期間,0.0,0,0
+suspend,一時停止する、吊るす,0.0,0,0
+delete,削除する,0.0,0,0
+account,アカウント、口座、得意先、占める、説明する,0.0,0,0
+profession,専門的職業,0.0,0,0
+cite,引き合いに出す、引用する、例に挙げる,0.0,0,1
+lack,不足、～が不足している,0.0,0,0
+adequate,十分な、適切な,0.0,0,1
+preparation,準備、用意,0.0,0,0
+departure,離脱、逸脱、出発,0.5,1,1
+compile,取りまとめる、編集する,0.0,0,0
+reference book,参考図書,0.0,0,0
+breathtaking,息を呑むほどの、驚くべき,0.0,0,0
+lighthouse,灯台,0.0,0,0
+exceptional,並外れた、非常に素晴らしい,0.0,0,0
+ventilation,換気、風通し,0.0,0,0
+optimal,ベストの、最適な,0.0,0,0
+comfort,快適さ,0.0,0,0
+opponent,反対者、対戦相手,0.0,0,0
+bill,議案、請求書、請求書を送る,0.0,0,0
+skeptical,懐疑的な、疑い深い,0.0,0,0
+whether,～かどうか、～であろうと,0.0,0,0
+raise,上げる、集める、高める、昇給,0.0,0,0
+minimum,最低限の、最小限の、最低限、最小限,0.0,0,0
+wage,賃金、（何かに反対する活動等を）行う,0.0,0,0
+boost,押し上げる、引き上げる、後押し、増加,0.0,0,0
+consult,（専門家に）相談する、（本などを）参考にする,0.0,0,0
+veterinarian,獣医,0.0,0,0
+diagnosis,診断,0.0,0,0
+cause,原因、大義、引き起こす,0.5,1,1
+heavily,すごく、大量に、非常に頻繁に,0.0,0,0
+dependent,依存している,0.0,0,0
+import,輸入、輸入する,0.5,1,1
+vulnerable,脆弱な,0.0,0,0
+fluctuation,変動,0.0,0,0
+determine,判断する、決定する、決心する,0.0,0,0
+viable,実行可能な、うまくいきそうな,0.0,0,0
+alternative,代案、代わりになるもの、代わりの,0.0,0,0
+assessment,評価、見積もり,0.0,0,0
+inaugural,最初の、初回の、就任の,0.0,0,0
+issue,（雑誌の）号、課題、（正式に）出す、発行する,0.0,0,0
+circulation,発行部数、流通、貸出・返却,0.0,0,0
+copy,（本などの）冊・部、（CDなどの）枚、コピー、コピーする,0.0,0,0
+distribute,配布する、流通させる,0.0,0,0
+region,地域,0.0,0,0
+thoughtfully,深く考えて、思慮深く、配慮して,0.0,0,0
+meticulously,最新の注意を払って、几帳面に,0.0,0,0
+craft,（手作業で）作る、工芸品,0.5,1,1
+unique,他にない、独自の、他に類を見ない、特有の,0.0,0,0
+convenience,便利さ,0.0,0,0
+share,株、占有率、共有する,0.0,0,0
+sharply,急激に,0.0,0,0
+amid,～の真っ最中に、～に囲まれて,0.0,0,0
+speculation,推測、推量,0.0,0,0
+impending,間近に迫った、差し迫った,0.0,0,0
+acquisition,買収、獲得、入手作品,0.0,0,0
+bearer,（小切手などの）持参人,0.0,0,0
+entitle,～に資格・権利を与える,0.0,0,0
+fertilizer,肥料,0.0,0,0
+landscaping,造園,0.0,0,0
+individual,個人、個人の、個別の,0.0,0,0
+encourage,奨励する、促す,0.0,0,0
+re'sume',履歴書,0.0,0,0
+portfolio,作品集,0.0,0,0
+reference,照会先、照会、照会状、参照,0.0,0,0
+personnel,人事部、職員、従業員,0.0,0,0
+pharmaceutical,製薬の,0.0,0,0
+initiate,始める,0.0,0,0
+voluntary,自主的な、任意の,0.0,0,0
+recall,回収、回収する、思い出す,0.0,0,0
+cough,せき,0.0,0,0
+medication,薬,0.0,0,0
+host,主催する、司会をする、司会者、主催者,0.5,1,1
+reception,パーティ、受付、受信状況、受け入れ,0.5,1,1
+commemorate,祝う、記念する,0.0,0,0
+anticipated,待ち望まれた、予期された,0.0,0,0
+opening,オープン、仕事の空き、オープニングの,0.0,0,0
+flagship store,旗艦店,0.0,0,0
+eager,～したがる、熱望する,0.0,0,0
+forge,築く、構築する,0.0,0,0
+mutually,互いに、相互に,0.0,0,1
+beneficial,有益な,0.0,0,0
+prosperous,反映している、裕福な,0.0,0,0
+relationship,関係,0.0,0,0
+author,著者、作者、（本を）書く,0.0,0,0
+acclaimed,絶賛されている,0.0,0,0
+appear,掲載される、現れる、～のように思える,0.0,0,0
+numerous,数多くの,0.0,0,0
+anthology,選集、アンソロジー,0.0,0,0
+former,前の、かつての、前者,0.0,0,0
+agree,同意する、同感である,0.5,1,1
+affiliated,関連のある、提携した,0.0,0,0
+shareholder,株主,0.0,0,0
+traffic,交通,0.0,0,0
+restrict,制限する,0.0,0,0
+detour,回り道、遠回りする,0.0,0,0
+in place,用意されている、所定の一に,0.0,0,1
+repave,再舗装する,0.0,0,0
+urge,強く促す,0.0,0,0
+commuter,通勤者,0.0,0,0
+alternative,代わりの、代案、代わりになるもの,0.0,0,0
+adjust,調整する、調節する,0.0,0,0
+accordingly,それに応じて、結果として,0.0,0,0
+replace,取って代わる、交換する、後任となる,0.0,0,0
+cubicle,（区切られた）個別の作業スペース,0.0,0,0
+aim,目指す、狙う、目標、狙い,0.0,0,0
+reduce,減らす、（値段を）下げる,0.0,0,0
+foster,促進する、養う,0.0,0,0
+collaboration,協力、協同,0.0,0,0
+innovative,革新的な,0.0,0,0
+start-up,ベンチャー企業、スタートアップ,0.0,0,0
+represent,代表を務める、相当する、表す,0.0,0,0
+shortlist,最終候補のリストに挙げる,0.0,0,0
+compete,競う,0.0,0,0
+lucrative,もうかる、利益の上がる、高額の,0.0,0,0
+recent,最近の,0.0,0,0
+suggest,示唆する、提案する,0.0,0,0
+beverage,飲料,0.0,0,0
+endorse,推薦する、支持する、裏書きする,0.0,0,0
+celebrity,有名人,0.0,0,0
+unhealthy,健康に悪い、不健康な,0.0,0,0
+insurance,保険,0.0,0,0
+initial,初めの、当初の、頭文字,0.0,0,0
+consultation,相談,0.0,0,0
+expedite,早める、促進させる,0.0,0,0
+reimbursement,払い戻し,0.0,0,0
+light rail,ライトレール,0.0,0,0
+not only X but also Y,XだけでなくYも,0.0,0,0
+alleviate,軽減する、和らげる,0.0,0,0
+enviromental pollution,環境汚染,0.0,0,0
+enhance,向上させる、強化する,0.0,0,0
+economic,経済の、経済上の,0.0,0,0
+development,成長、開発、出来事、住宅地,0.0,0,0
+cancel,キャンセルする、中止する,0.0,0,0
+prior to,～の前に,0.0,0,0
+rafting,川下り,0.0,0,0
+forfeit,募集される、剥奪される、罰金、犠牲,0.0,0,0
+prepaid,前払いの,0.0,0,0
+dilute,薄める,0.0,0,0
+detergent,洗剤,0.0,0,1
+ratio,比率,0.0,0,0
+depend on,～次第だ、～に頼る,0.0,0,0
+degree,程度、学位、度,0.0,0,0
+contamination,汚れ,0.0,0,0
+in addition to,～に加えて,0.0,0,0
+saving,節約、値引き、貯蓄,0.0,0,0
+carpool,相乗り、相乗りする,0.0,0,0
+ease,やわらげる、容易にする、容易さ、たやすさ,0.0,0,0
+traffic congestion,交通渋滞,0.0,0,0
+editor,編集者,0.0,0,0
+revenue,収入、収益,0.0,0,0
+subscriber,購読者、加入者,0.0,0,1
+avid,熱心な、熱烈な,0.0,0,0
+literature,文学,0.0,0,0
+showcase,披露する、お披露目の場、ショーケース,0.0,0,0
+a variety of,さまざまな,0.0,0,0
+memorabilia,記念品、思い出の品,0.0,0,0
+exhibition,展示会、展示物、展示,0.5,1,1
+prove,わかる、判明する、証明する,0.0,0,0
+extend,延長する、表す,0.0,0,0
+at least,少なくとも,0.0,0,0
+prospective,見込みのある、将来の,0.0,0,0
+vendor,業者、露天商,0.0,0,0
+turn in,提出する,0.0,0,0
+itemize,項目別にする,0.0,0,0
+merchandise,商品,0.0,0,0
+garment,衣料品,0.0,0,0
+synthetic,合成の,0.0,0,0
+fabric,記事、繊維,0.0,0,0
+durable,耐久性がある、丈夫な,0.0,0,0
+resistant,耐えられる、抵抗力のある,0.5,1,1
+graduate,大学院の、卒業する、卒業生,0.0,0,0
+degree,学位、程度、度,0.5,1,1
+desirable,望ましい,0.0,0,0
+mandatory,必須の、義務の、強制の,0.0,0,0
+commensurate,比例した、釣り合った、見合った,0.0,0,0
+credentials,資格、経歴、資産,0.0,0,1
+appreciate,ありがたく思う、感謝する,0.0,0,0
+candid,素直な,0.0,0,0
+appraisal,評価、査定,0.0,0,0
+qualification,資格、適正,0.0,0,0
+strength,長所、強さ、強度。濃さ,0.0,0,0
+imperative,非常に重要な、急を要する,0.0,0,0
+agreement,合意、契約、同意,0.0,0,0
+reach,達する、連絡を取る、到達する、手をのばす,0.5,1,1
+matter,問題、事柄、重要である,0.0,0,0
+minimize,最小限に抑える、最小化する,0.0,0,0
+further,さらなる、さらに,0.0,0,0
+disruption,混乱、妨げ,0.0,0,0
+versatile,多用途の、多才な,0.0,0,0
+sturdy,頑丈な、丈夫な,0.0,0,0
+withstand,耐える,0.0,0,0
+harsh,厳しい,0.0,0,0
+quarterly,四半期の、季刊誌,0.0,0,0
+earnings,収入,0.5,1,1
+ahead of schedule,予定より早く,0.0,0,0
+figure,数値、人物,0.0,0,0
+slightly,わずかに、少し,0.0,0,0
+surpass,上回る、超える,0.0,0,0
+prediction,予測、予言,0.0,0,0
+graduate,卒業する、卒業生、大学院の,0.0,0,0
+prestigious,名高い、名門の,0.0,0,0
+culinary,料理の,0.0,0,0
+institute,機関、導入する,0.0,0,1
+renowned,高名な、著名な,0.0,0,0
+qualified,資格のある、適任の,0.0,0,0
+diligent,勤勉な、真面目な,0.0,0,0
+dependable,信頼できる,0.0,0,0
+punctual,時間を守る、時間通りの,0.0,0,0
+neither X nor Y,XもYも～ない,0.0,0,0
+managerial,管理職の、経営上の,0.0,0,0
+practical,実務の、実際の、実用的な,0.0,0,0
+unprecedented,前例のない,0.0,0,0
+consecutive,連続した,0.0,0,0
+profit,利益、利益を与える,0.0,0,0
+in spite of,～にもかかわらず,0.0,0,0
+adverse,よくない、不利な,0.0,0,0
+insulation,（音、熱などを）防ぐこと,0.0,0,0
+complain,文句を言う,0.0,0,0
+hallway,廊下,0.0,0,0
+objectionable,不快な、気に触る,0.0,0,1
+encounter,直面する、遭う、出くわす、出会い,0.0,0,0
+delay,遅れ、遅らせる,0.0,0,0
+inclement,荒れ模様の,0.0,0,1
+mechanical,機械の,0.0,0,0
+malfunction,故障、故障する,0.0,0,0
+any number of,たくさんの、いくらでも,0.0,0,0
+unwavering,たゆまぬ、揺るがぬ、断固とした,0.0,0,0
+exponentially,加速度的に、指数関数的に,0.0,0,0

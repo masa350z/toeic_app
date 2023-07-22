@@ -1,0 +1,140 @@
+<SelectExchange>:  # 利用取引所選択
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.9
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/2]
+        Label:
+            text: '利用する取引所を選択してください'
+        GridLayout:
+            cols: 4
+            rows: 1
+            spacing: [20,20]
+            Button:
+                text: 'bitflyer'
+                on_press: app.root.exchange = self.text;  root.fire_popup()
+            Button:
+                text: 'bitbankcc'
+                on_press: app.root.exchange = self.text;  root.fire_popup()
+            Button:
+                text: 'bitmex'
+                on_press: app.root.exchange = self.text;  root.fire_popup()
+            Button:
+                text: 'liquid'
+                on_press: app.root.exchange = self.text;  root.fire_popup()
+
+<ExchangePopup>:
+    id:pop
+    size_hint: .4, .4
+    auto_dismiss: False
+    title: '確認'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.3
+            text: app.root.exchange + 'でよろしいですか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: pop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: root.register_ex(app.root.exchange); pop.dismiss(); app.root.go_resisterkey()
+
+<RegisterKey>:  # キー登録
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    Label:
+        pos: [root.width/2 - self.width/2, root.height  - self.height]
+        size_hint_y: 0.1
+        text: 'APIキー、シークレットキーを入力してください'
+
+    BoxLayout:
+        size_hint: 0.9, 0.6
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/2]
+        orientation: 'vertical'
+        spacing: 50
+        size: root.size
+
+        BoxLayout:
+            size_hint_y: 0.1
+            orientation: 'horizontal'
+            TextInput:
+                id: api
+                multiline: False
+                size_hint_x: 0.8
+                hint_text: 'APIキー'
+
+
+        BoxLayout:
+            size_hint_y: 0.1
+            orientation: 'horizontal'
+            TextInput:
+                id: sct
+                multiline: False
+                size_hint_x: 0.8
+                hint_text: 'シークレットキー'
+
+        FloatLayout:
+            size_hint_y: 0.1
+            Button:
+                size_hint_x: 0.3
+                pos: [root.width/2 - self.width/2, self.height/2]
+                text: '登録'
+                on_press: app.root.api_key = api.text; app.root.sct_key = sct.text; root.key_popup(api.text, sct.text)
+
+
+<KeyPopup>:
+    id:pop
+    size_hint: .7, .7
+    auto_dismiss: False
+    title: '確認'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.1
+            text: 'APIキー'
+        Label:
+            size_hint_y: 0.1
+            text: app.root.api_key
+        Label:
+            size_hint_y: 0.1
+            text: 'シークレットキー'
+        Label:
+            size_hint_y: 0.1
+            text: app.root.sct_key
+        Label:
+            size_hint_y: 0.2
+            text: '以上で間違いありませんか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: pop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: root.register_keys(app.root.api_key, app.root.sct_key); pop.dismiss(); app.root.go_home()
+
+<KeyErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: 'APIキーとシークレットキーを入力してください'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: epop.dismiss()

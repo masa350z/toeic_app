@@ -1,0 +1,171 @@
+<Setting>:
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '取引設定'
+            font_size: 17
+
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: '取引量設定'
+            BoxLayout:
+                TextInput:
+                    id: amount
+                    size_hint_x: .5
+                    multiline: False
+                    input_filter: 'float'
+                    hint_text: '取引量を入力（例：0.1）'
+                Label:
+                    size_hint_x: .2
+                    text: 'BTC(bitmexの場合USD)'
+
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: '緊急停止設定（資産が24時間で何％減少したら動作を停止させるかを設定）'
+            BoxLayout:
+                Slider:
+                    id: slide
+                    size_hint_x: .9
+                    min: 1
+                    max: 100
+                    step: 1
+                    value: 100
+                Label:
+                    size_hint_x: .1
+                    text: str(slide.value)+'%'
+
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '決定'
+        on_press: app.root.amount = amount.text; app.root.emergency = slide.value ; root.register_setting(amount.text)
+
+<SettingPopup>:
+    id:pop
+    size_hint: .7, .7
+    auto_dismiss: False
+    title: '確認'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.1
+            text: '取引量'
+        Label:
+            size_hint_y: 0.1
+            text: app.root.amount + 'BTC(bitmexの場合USD)'
+        Label:
+            size_hint_y: 0.1
+            text: '緊急停止設定'
+        Label:
+            size_hint_y: 0.1
+            text: str(app.root.emergency)+"%"
+        Label:
+            size_hint_y: 0.2
+            text: '以上で間違いありませんか'
+        BoxLayout:
+            Button:
+                text: 'いいえ'
+                on_press: pop.dismiss()
+            Button:
+                text: 'はい'
+                on_press: root.register_setting(app.root.amount,app.root.emergency); pop.dismiss(); app.root.go_home()
+
+<SettingErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: '取引量を入力してください'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: epop.dismiss()
+
+<Continue>:
+    Button:
+        size_hint_y: .1
+        size_hint_x: .2
+        pos: [0, root.height - self.height]
+        text: 'ホーム'
+        on_press: app.root.go_home()
+    BoxLayout:
+        orientation: 'vertical'
+        size_hint: 0.9, 0.7
+        pos: [root.width/2 - self.width/2, root.height/2  - self.height/3]
+        spacing: 25
+
+        Label:
+            text: '利用継続設定'
+            font_size: 17
+        BoxLayout:
+            orientation: 'vertical'
+            Label:
+                text: '以前と最大取引量が同じ場合：　利用期限は以前のものに加算されます。'
+            Label:
+                text: '以前と最大取引量が違う場合：　利用期限は上書きされます。'
+
+        Label:
+            text: '継続ID入力'
+        TextInput:
+            id: cont
+            focus: True
+            size_hint_y: .5
+            multiline: False
+            hint_text: '継続IDを入力'
+
+    Button:
+        size_hint_y: .1
+        size_hint_x: .3
+        pos: [root.width/2 - self.width/2, self.height/2]
+        text: '送信'
+        on_press: root.continue_popup(cont.text)
+
+<ContinuePopup>:
+    id:pop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: '成功'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: '成功しました'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: pop.dismiss()
+
+<ContinueErrorPopup>:
+    id:epop
+    size_hint: .5, .3
+    auto_dismiss: False
+    title: 'エラー'
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            size_hint_y: 0.4
+            text: 'エラーが発生しました。\nキーが存在しないか使用済みである可能性があります。'
+        BoxLayout:
+            size_hint_y: 0.6
+            Button:
+                text: '戻る'
+                on_press: epop.dismiss()
